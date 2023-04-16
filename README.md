@@ -6,10 +6,12 @@ This will be a guide for working with Lilium!
 ## Connecting to Testnet
 - Open Chrome
 - Navigate to [extension settings](chrome://extensions/)
+    - Enter `chrome://extensions/` in browser URL
 - Enable developer mode
 - download [nautilus testnet](https://github.com/capt-nemo429/nautilus-wallet/releases/tag/v0.7.3)
     - unzip
 - Go back to [extension settings](chrome://extensions/)
+    - Enter `chrome://extensions/` in browser URL
 - Select `Load Unpacked` and choose the unzipped nautilus **folder**
 - Click the puzzle icon on the top right of the browser view and pin Nautilus Testnet to get easy access
 - Create wallet and proceed as usual
