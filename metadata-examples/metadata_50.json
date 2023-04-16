@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "MGPai Small Eyeballs Test #1",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/1.png",
+    "imageSHA256": "e4ec88d83b825c4b2cb85b3d83f59619bdf4412613aca9932d8221e16c317bcc",
+    "dna": "1fec3cefbc1e6bcf106b7c04a8f5648f781f4a98a2906f12ce3019ff94efdad5",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #2",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/2.png",
+    "imageSHA256": "682201b5274ddf911ee9f8e310d576040a10f276a1494dce98ccb56430f339a6",
+    "dna": "6074f5172bb0e872a8087c87198adfb3e760adc4dd2cd65ec64553f9f1b6de43",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #3",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/3.png",
+    "imageSHA256": "7014aeb09919f870beb9d650843bd8618a6a2b18173376c883c80c414afc71c9",
+    "dna": "4c9fca6106320796d117d98c6589f7a827a1f8da8d88989384c97b61c611de43",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #4",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/4.png",
+    "imageSHA256": "cab1bc1124536b55acd3cbde271c07dc388ea6a6e16d9ad90e39a08893c2aa36",
+    "dna": "4051db59175dd24d20562937950eeb304df288846c6277a5691331fe0e1584f9",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #5",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/5.png",
+    "imageSHA256": "a4099fd4fc45fcc54acf2535e7cf0b52a6bcbaa7c701c11e78a9e66f989fb0c3",
+    "dna": "5c5f9c1e85da69ba3807782a467b871fa8eca4ab33b3d55adfc71ea2eac3fb0b",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #6",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/6.png",
+    "imageSHA256": "140b2a302a8864a2bf43bca584f26e074c120f45029b9ef1ad5655dcb7fa139f",
+    "dna": "4931432f6c0586238e76fd7a3750fe07fd9523661a162c4a11565dba301bc597",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #7",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/7.png",
+    "imageSHA256": "78ececf3102c0a4f395038ca08f5fef4b21f34c5b2b97f3f4540a0b75ec00da0",
+    "dna": "6db1f3da8098a0d1600e872d221c15dc41b9dd86b0570eae22c2c8fa86ad66b0",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #8",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/8.png",
+    "imageSHA256": "4705dad3c5f8f4f83271a2493f809c9e7f71f99bba22522c6028022915a08443",
+    "dna": "073ca5517024130e1058d10b2c8afa6c4d4ada1150c37c0280443283a9f7284c",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #9",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/9.png",
+    "imageSHA256": "40d66fa4d4a840eef50279da95427a0249d3d41b28ca8a26c1f3686fbab82425",
+    "dna": "b41db75e3f628e6e272066c77d560aafaaf276255bbbc132d8f05e2b1343df86",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #10",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/10.png",
+    "imageSHA256": "7e14582346b34c54f4aeabcee1b6e1dbe7db4fc5f88359c22cec00fef85cf001",
+    "dna": "8eb90ebff9852faeaf642f2a52a5018da438998d6a384f14506a4241998feea4",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #11",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/11.png",
+    "imageSHA256": "8ab32ff89f287688476bb06ea86bd9f421e632b570e91a066fd085f29954e7a4",
+    "dna": "5220b00bbf38f9a511eb2a4ff60b93aa6431bf079b8c51a9ac1a09d1a63429d6",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #12",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/12.png",
+    "imageSHA256": "e82388f09e52eefcdee5f0114d104e16c9c34d5991919a5f4f6e8c7fd2fc7d1c",
+    "dna": "d6238d4109b91bb596a16c0f95075d0288d2587cdc802562dc1262bd81652ed6",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #13",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/13.png",
+    "imageSHA256": "00002745e3c1ee9539706c85e7f8c8cf73563d555ba2c28bb0155c016159db80",
+    "dna": "4f9e4368d4dd258118121c28b0c38b3e52091f45a3e6ac99355a1dfedaceea74",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #14",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/14.png",
+    "imageSHA256": "4e2e3082538bbf686c47912984e755ec26c5de5fa21ef0d6b1d762de0fa6ca02",
+    "dna": "37b93a748e3bd4d93bd85b0595717f212d36444bf21ebb08dcb941ebeef7631f",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #15",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/15.png",
+    "imageSHA256": "ef6d37ec414ca7d4e7b74cde7baacdd73712362671cfc60073cd5282bcd9b6fe",
+    "dna": "31be3e28ae7c28b7059290ba0364c865c20cf60e67dadcc43a1c3fe237331a69",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #16",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/16.png",
+    "imageSHA256": "260213cc392912676f897328292350c3c4c1e66b103e150475832b30858bfaaa",
+    "dna": "5219127e31d862ef6eb07777214d7954fcfb744b315ce6018fd3db8ecad54069",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #17",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/17.png",
+    "imageSHA256": "6d43cf2a390c972e1feb5f1e73936534d3ac3de98ef2eb0b0083f92d78d4a5d4",
+    "dna": "c15cd26f60e780e85811dd8dbe6d4f182f6d5a3aae81b7ba55d9eaa08ffa87a1",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #18",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/18.png",
+    "imageSHA256": "851907834c9698430c2796d61d7f99858dc38b67b2915fa48e529e835b61e172",
+    "dna": "0064b827643b2433b7d08556928a7416f4bef4cc641dde1473359faa46621ea2",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #19",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/19.png",
+    "imageSHA256": "a296a85e84a2ca596f0e60d50e96c12ebe745fd2e24e7d3974eb2cfb1b20de23",
+    "dna": "eeec0df52141200c3b4e2249a2d3c2fe2e04f9fbab58ed58ca16fc5c2e2626a2",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #20",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/20.png",
+    "imageSHA256": "a56fc5dfb5bda85c7f837e1051c67e6b83802a5de9cf8ac97c1542c3671071cd",
+    "dna": "ba675bf212432a03914d7539aa6382683cb767dbd9f46c54724d96c585ef3c02",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #21",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/21.png",
+    "imageSHA256": "538a3728c12e87dcc3dbe33c17230128e082be4e9098a7bc1acd5c3f6580c0ab",
+    "dna": "7f3b9a39cb9b7b3f6513be4378634f2630521d39dc1704115799b6b4fe43bd16",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #22",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/22.png",
+    "imageSHA256": "3dbface7f13429f86f655feaf861f915a8bde5cf594e415d7b011124d330ab6f",
+    "dna": "4ad3119bc856bedb17ecc7f2dddaa4673d2b0cea380c0701a5710808ff788eba",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #23",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/23.png",
+    "imageSHA256": "5d42eb4b51ae7a9b58c05af18217c482167a5a9aa7df78828c1c648b2610ba05",
+    "dna": "c73b40505608ef69962a6f7e405b881c5fb86f7f1f7800e2755bbd711359e69f",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #24",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/24.png",
+    "imageSHA256": "411027ccba75791883014c872a681490973e777ba4155267fcd237393ee95fe3",
+    "dna": "aed505d79b73b1bd1e9227f54a60db31a078583e63e0b3c299982df1fc11de1b",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #25",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/25.png",
+    "imageSHA256": "6a750ea13a5d7ad03afdd75aba5a66c69a4ef228d2d59d7182e360f617e7e9d3",
+    "dna": "eb580102878568d97407a560c687d4bf144b8bec537a584cb29eaf61e414a168",
+    "edition": 25,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #26",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/26.png",
+    "imageSHA256": "30684ad5d4d2606a33803108aefbfb8341c25c15af0d3330cc19755c4dce358a",
+    "dna": "944c696c005609ce61a9ec527b465779618113631606df62bb2454a976926fd0",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #27",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/27.png",
+    "imageSHA256": "cac9ea4fed44c0e4dcf371d00f87299005837c238f3aec06ce42042d5ea8e153",
+    "dna": "d8ef1784b1702786220c0fa3b4a5db3d69b074839f1535318f5a1b70b12febcf",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #28",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/28.png",
+    "imageSHA256": "b3ef9e63ab23076dd80fd7e9ad6ac8e3666fb331ad8915e9abb342e0d3c64a45",
+    "dna": "57471249cb3bd5564d2356144ee78f2ba173ce8f95224d36f7e624771c18fb60",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #29",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/29.png",
+    "imageSHA256": "618134947f1ba49f2b264c9057d39c6c43721a4cc687fa15452925d0e85e8ce4",
+    "dna": "f302d951a7a451a963eb71e839011145ca6421c20b6596da14b32beea943098b",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #30",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/30.png",
+    "imageSHA256": "a2feb098a61af278edb637059ae0f017f33cfa909583a11b5c82a40e68a5f9f1",
+    "dna": "2557813d19416edc58d1a1089a89a830c2d84fdfdffd03c5b35d9b3b4469ca92",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #31",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/31.png",
+    "imageSHA256": "e5710dccc31d33caa7d67375730e30b7b63c64cbb02afd601937ee9dff6d601c",
+    "dna": "98b325c00b2699bd0e8f5a3fab29f890f8fa35e7284019bb7c9864c26ca2e4fb",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #32",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/32.png",
+    "imageSHA256": "e859b9b2f1c736018d4e1a9d526b7c84989f9f97d8dd76b99640921dafbe360b",
+    "dna": "4d34a1dd1cbb2106517594a8958b6e376bf4b050f3b50b2d0d169a85f67d2840",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #33",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/33.png",
+    "imageSHA256": "3646e009f71cb3a5d2174ce3efd21cf732b0689e4a983914a34c1724ab8b371b",
+    "dna": "de0fa1c57021a7731b64f5c3dd4715dcfb89925fc8bc29df88a3c09d752781aa",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #34",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/34.png",
+    "imageSHA256": "9adb75ac6c1f4c2b4a57ab64274c18e768b10a6cda6ac71e9f165d52d13bf0f1",
+    "dna": "eafdd5ac09f4e46265b2025b7ce0d17a68eb5f011b9241b5c454ff9ac7b7df86",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #35",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/35.png",
+    "imageSHA256": "cd817e41bbe774da21448cace76ebbb3d2ee4ce7a5cb2a6ae0074d35838e2dcc",
+    "dna": "4a1960b487f3196f07199a61e7086c30f2787ed27b5adc6fb7603199a31bcd60",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #36",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/36.png",
+    "imageSHA256": "9cd87173f3a54e628a4038de70b5b6b9803c94b8238ea1eb6e65f6865889aeef",
+    "dna": "6e683f2aa1c3a11171d500c0791b0f0dbfe2c128074317e7fe2c3dbeb4bd1784",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #37",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/37.png",
+    "imageSHA256": "1bd7e38b81c10f6a82c6b78ce6ec9aa1760a10b3732d5cfdb078d584b049210c",
+    "dna": "c0609c6d6d589248ba2c90bbcf9f8ed09916918da5bd18085d89a48dcce4e362",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #38",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/38.png",
+    "imageSHA256": "77acbf379e8a4b5218b95e9a0d48bbef56731ed39557b0aaa8fc75cd0068fa56",
+    "dna": "686ffc0ba3c90fc28dd637467de334bf8a6c40d562e08444405f1dcfaee64747",
+    "edition": 38,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #39",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/39.png",
+    "imageSHA256": "cd534522e3b65a570e2edf521a47b0e2d3981514c508a14829978918d122ab9d",
+    "dna": "eb53cd7092b4b0cd206b477d1cb7fbc4f8051dc3515eb05cb2572164af7fc614",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #40",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/40.png",
+    "imageSHA256": "bc08b3f72c5064338f08855cccb9936836c08836889f77bc1a224bf90ce2c211",
+    "dna": "c9ca8f0e53a336d7c63367113e72420a69d8d3874d8d793b467031ab41676a9e",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #41",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/41.png",
+    "imageSHA256": "ef31db8f19c06c67be2c553e7533fe001bc4aa45393e0df57fa59de9ab08e3dd",
+    "dna": "b0c60e665270d5e21333bc5b8598096855fa0c6dd9704dc5eb70ac9a7a427818",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #42",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/42.png",
+    "imageSHA256": "425b2f01e85a30ece22cfb499bfc4ccc48368c4d6705b17ef31c2dfa2408bc24",
+    "dna": "a27690ee482bd0f4719af4ba9b62b85c3b4c66b4f65a036c43e83e5e8cb0e4b3",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #43",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/43.png",
+    "imageSHA256": "52f6f37a25a0f7bf8be7d65565d3494cc2f27a288bca8bd35651fd999a29d848",
+    "dna": "a4d451185a377f265b72695c42fe41096f4c71860aba010bf2af340a85919d0e",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #44",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/44.png",
+    "imageSHA256": "745a174094cbb50f475c110126eba599f56c9c0a48694cbd9fcf46127796ab15",
+    "dna": "65922f62238f1e488bb1bec2f9a1f1e6c30be67a9c171973b03b28975a81e819",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #45",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/45.png",
+    "imageSHA256": "7fa5be0eb42fbbcf4b00cdae911c02db006e41aed7e384db6631a14f240871b9",
+    "dna": "ae872cdf28678d90aaee2e8f5ffa5db2d825a7ee8c4af1f044abcb7720f8d870",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #46",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/46.png",
+    "imageSHA256": "a0a90535050247db7ba7992cf2703385a986e93031aa71e60d17e06ca900471d",
+    "dna": "ab2105f13630855fbb405a5dad32705ff0c824d573c0018289f74ad2f1333d0e",
+    "edition": 46,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #47",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/47.png",
+    "imageSHA256": "ac50e669801dacb864220b567b52bec9557606c62ee52ad2af246d7784cac5c5",
+    "dna": "cd6c9cadce9b6ea3eaded1bbb7b38a33b255801f221be08d7051df754de3cba3",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #48",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/48.png",
+    "imageSHA256": "4c86c2d4ce9d1367bd3e259cb01000ae343728da6c0a98b56f54f749786f034c",
+    "dna": "b41d5d7ea470620d3365031289238da1a45b7f8c5ec3c5072803eee6cd06b069",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #49",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/49.png",
+    "imageSHA256": "4b4f94bd97204d6ffb94317f1d00d6b7e1b2242a00173732c6253917189d7584",
+    "dna": "3a3e7d76c72b243bf880f2e1380e890ed5c8145446031fc4ca2b978ced0d732a",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  },
+  {
+    "name": "MGPai Small Eyeballs Test #50",
+    "description": "This is part of a 50 NFT test",
+    "image": "ipfs://bafybeic5jvegkni64qzlwponxioatreg4cyknl5gxyuoconjrcu22lheq4/50.png",
+    "imageSHA256": "19ed7d9f3e1e333e1eed8a0113fe0da04dcaef77e732140be11c09e1d56fc9ac",
+    "dna": "9f7eb7895cb82ea59fd7b05b84fb76032bb0d69e6c5362f21347a987054bf5e9",
+    "edition": 50,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  }
+]

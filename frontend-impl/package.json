@@ -1,0 +1,16 @@
+{
+  "name": "lilium-artist-guide",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "frontend-payment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fleet-sdk/core": "^0.1.0-alpha.26",
+    "axios": "^1.3.5"
+  }
+}

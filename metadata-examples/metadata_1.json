@@ -1,0 +1,48 @@
+[
+  {
+    "name": "MGPai Small Eyeballs Single Test #1",
+    "description": "This is part of a 1 NFT test",
+    "image": "ipfs://bafybeiexxriglr6vlofm5usf5bs3fjo46gq2dahfdwvhcflwkgn2imdahy/1.png",
+    "imageSHA256": "2a209e9c3fc6ed76c03221b708218f3082798526c13c1d71b53fa024dddc3408",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [],
+    "stats": []
+  }
+]

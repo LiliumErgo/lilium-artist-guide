@@ -1,0 +1,8002 @@
+[
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #1",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/1.png",
+    "imageSHA256": "e4ec88d83b825c4b2cb85b3d83f59619bdf4412613aca9932d8221e16c317bcc",
+    "dna": "1fec3cefbc1e6bcf106b7c04a8f5648f781f4a98a2906f12ce3019ff94efdad5",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "illustrious",
+        "max_value": "100",
+        "value": "87"
+      },
+      {
+        "trait_type": "alcoholic",
+        "max_value": "100",
+        "value": "64"
+      },
+      {
+        "trait_type": "screeching",
+        "max_value": "100",
+        "value": "53"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "thoughtful",
+        "max_value": "100",
+        "value": "73"
+      },
+      {
+        "trait_type": "tacky",
+        "max_value": "100",
+        "value": "73"
+      },
+      {
+        "trait_type": "soggy",
+        "max_value": "100",
+        "value": "23"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #2",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/2.png",
+    "imageSHA256": "682201b5274ddf911ee9f8e310d576040a10f276a1494dce98ccb56430f339a6",
+    "dna": "6074f5172bb0e872a8087c87198adfb3e760adc4dd2cd65ec64553f9f1b6de43",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "long",
+        "max_value": "100",
+        "value": "74"
+      },
+      {
+        "trait_type": "cowardly",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "jagged",
+        "max_value": "100",
+        "value": "72"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "quick",
+        "max_value": "100",
+        "value": "15"
+      },
+      {
+        "trait_type": "auspicious",
+        "max_value": "100",
+        "value": "45"
+      },
+      {
+        "trait_type": "earsplitting",
+        "max_value": "100",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #3",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/3.png",
+    "imageSHA256": "7014aeb09919f870beb9d650843bd8618a6a2b18173376c883c80c414afc71c9",
+    "dna": "4c9fca6106320796d117d98c6589f7a827a1f8da8d88989384c97b61c611de43",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "alike",
+        "max_value": "100",
+        "value": "70"
+      },
+      {
+        "trait_type": "brash",
+        "max_value": "100",
+        "value": "33"
+      },
+      {
+        "trait_type": "absent",
+        "max_value": "100",
+        "value": "19"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "gaudy",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "breakable",
+        "max_value": "100",
+        "value": "50"
+      },
+      {
+        "trait_type": "efficient",
+        "max_value": "100",
+        "value": "99"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #4",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/4.png",
+    "imageSHA256": "cab1bc1124536b55acd3cbde271c07dc388ea6a6e16d9ad90e39a08893c2aa36",
+    "dna": "4051db59175dd24d20562937950eeb304df288846c6277a5691331fe0e1584f9",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "guttural",
+        "max_value": "100",
+        "value": "25"
+      },
+      {
+        "trait_type": "incompetent",
+        "max_value": "100",
+        "value": "16"
+      },
+      {
+        "trait_type": "flowery",
+        "max_value": "100",
+        "value": "36"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "rambunctious",
+        "max_value": "100",
+        "value": "33"
+      },
+      {
+        "trait_type": "brief",
+        "max_value": "100",
+        "value": "74"
+      },
+      {
+        "trait_type": "eminent",
+        "max_value": "100",
+        "value": "26"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #5",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/5.png",
+    "imageSHA256": "a4099fd4fc45fcc54acf2535e7cf0b52a6bcbaa7c701c11e78a9e66f989fb0c3",
+    "dna": "5c5f9c1e85da69ba3807782a467b871fa8eca4ab33b3d55adfc71ea2eac3fb0b",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "quaint",
+        "max_value": "100",
+        "value": "3"
+      },
+      {
+        "trait_type": "accurate",
+        "max_value": "100",
+        "value": "70"
+      },
+      {
+        "trait_type": "abject",
+        "max_value": "100",
+        "value": "23"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "embarrassed",
+        "max_value": "100",
+        "value": "18"
+      },
+      {
+        "trait_type": "jealous",
+        "max_value": "100",
+        "value": "39"
+      },
+      {
+        "trait_type": "nice",
+        "max_value": "100",
+        "value": "39"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #6",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/6.png",
+    "imageSHA256": "140b2a302a8864a2bf43bca584f26e074c120f45029b9ef1ad5655dcb7fa139f",
+    "dna": "4931432f6c0586238e76fd7a3750fe07fd9523661a162c4a11565dba301bc597",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "outstanding",
+        "max_value": "100",
+        "value": "18"
+      },
+      {
+        "trait_type": "skinny",
+        "max_value": "100",
+        "value": "63"
+      },
+      {
+        "trait_type": "outstanding",
+        "max_value": "100",
+        "value": "35"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "flaky",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "naughty",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "earsplitting",
+        "max_value": "100",
+        "value": "35"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #7",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/7.png",
+    "imageSHA256": "78ececf3102c0a4f395038ca08f5fef4b21f34c5b2b97f3f4540a0b75ec00da0",
+    "dna": "6db1f3da8098a0d1600e872d221c15dc41b9dd86b0570eae22c2c8fa86ad66b0",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "agonizing",
+        "max_value": "100",
+        "value": "10"
+      },
+      {
+        "trait_type": "unarmed",
+        "max_value": "100",
+        "value": "38"
+      },
+      {
+        "trait_type": "scandalous",
+        "max_value": "100",
+        "value": "43"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "sulky",
+        "max_value": "100",
+        "value": "73"
+      },
+      {
+        "trait_type": "naive",
+        "max_value": "100",
+        "value": "60"
+      },
+      {
+        "trait_type": "juicy",
+        "max_value": "100",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #8",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/8.png",
+    "imageSHA256": "4705dad3c5f8f4f83271a2493f809c9e7f71f99bba22522c6028022915a08443",
+    "dna": "073ca5517024130e1058d10b2c8afa6c4d4ada1150c37c0280443283a9f7284c",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "drunk",
+        "max_value": "100",
+        "value": "54"
+      },
+      {
+        "trait_type": "hellish",
+        "max_value": "100",
+        "value": "57"
+      },
+      {
+        "trait_type": "easy",
+        "max_value": "100",
+        "value": "76"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "stimulating",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "unaccountable",
+        "max_value": "100",
+        "value": "3"
+      },
+      {
+        "trait_type": "spicy",
+        "max_value": "100",
+        "value": "93"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #9",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/9.png",
+    "imageSHA256": "40d66fa4d4a840eef50279da95427a0249d3d41b28ca8a26c1f3686fbab82425",
+    "dna": "b41db75e3f628e6e272066c77d560aafaaf276255bbbc132d8f05e2b1343df86",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "rural",
+        "max_value": "100",
+        "value": "37"
+      },
+      {
+        "trait_type": "adamant",
+        "max_value": "100",
+        "value": "36"
+      },
+      {
+        "trait_type": "bitter",
+        "max_value": "100",
+        "value": "68"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "tightfisted",
+        "max_value": "100",
+        "value": "3"
+      },
+      {
+        "trait_type": "absent",
+        "max_value": "100",
+        "value": "26"
+      },
+      {
+        "trait_type": "naive",
+        "max_value": "100",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #10",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/10.png",
+    "imageSHA256": "7e14582346b34c54f4aeabcee1b6e1dbe7db4fc5f88359c22cec00fef85cf001",
+    "dna": "8eb90ebff9852faeaf642f2a52a5018da438998d6a384f14506a4241998feea4",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "uncovered",
+        "max_value": "100",
+        "value": "7"
+      },
+      {
+        "trait_type": "tricky",
+        "max_value": "100",
+        "value": "19"
+      },
+      {
+        "trait_type": "industrious",
+        "max_value": "100",
+        "value": "42"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "wicked",
+        "max_value": "100",
+        "value": "30"
+      },
+      {
+        "trait_type": "gigantic",
+        "max_value": "100",
+        "value": "69"
+      },
+      {
+        "trait_type": "doubtful",
+        "max_value": "100",
+        "value": "61"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #11",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/11.png",
+    "imageSHA256": "8ab32ff89f287688476bb06ea86bd9f421e632b570e91a066fd085f29954e7a4",
+    "dna": "5220b00bbf38f9a511eb2a4ff60b93aa6431bf079b8c51a9ac1a09d1a63429d6",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "barbarous",
+        "max_value": "100",
+        "value": "13"
+      },
+      {
+        "trait_type": "abounding",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "solid",
+        "max_value": "100",
+        "value": "64"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "blushing",
+        "max_value": "100",
+        "value": "31"
+      },
+      {
+        "trait_type": "repulsive",
+        "max_value": "100",
+        "value": "93"
+      },
+      {
+        "trait_type": "rural",
+        "max_value": "100",
+        "value": "33"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #12",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/12.png",
+    "imageSHA256": "e82388f09e52eefcdee5f0114d104e16c9c34d5991919a5f4f6e8c7fd2fc7d1c",
+    "dna": "d6238d4109b91bb596a16c0f95075d0288d2587cdc802562dc1262bd81652ed6",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "meek",
+        "max_value": "100",
+        "value": "35"
+      },
+      {
+        "trait_type": "knotty",
+        "max_value": "100",
+        "value": "33"
+      },
+      {
+        "trait_type": "minor",
+        "max_value": "100",
+        "value": "58"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "famous",
+        "max_value": "100",
+        "value": "72"
+      },
+      {
+        "trait_type": "gruesome",
+        "max_value": "100",
+        "value": "64"
+      },
+      {
+        "trait_type": "icy",
+        "max_value": "100",
+        "value": "35"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #13",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/13.png",
+    "imageSHA256": "00002745e3c1ee9539706c85e7f8c8cf73563d555ba2c28bb0155c016159db80",
+    "dna": "4f9e4368d4dd258118121c28b0c38b3e52091f45a3e6ac99355a1dfedaceea74",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "cruel",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "guarded",
+        "max_value": "100",
+        "value": "64"
+      },
+      {
+        "trait_type": "phobic",
+        "max_value": "100",
+        "value": "17"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "victorious",
+        "max_value": "100",
+        "value": "21"
+      },
+      {
+        "trait_type": "abortive",
+        "max_value": "100",
+        "value": "57"
+      },
+      {
+        "trait_type": "lean",
+        "max_value": "100",
+        "value": "64"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #14",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/14.png",
+    "imageSHA256": "4e2e3082538bbf686c47912984e755ec26c5de5fa21ef0d6b1d762de0fa6ca02",
+    "dna": "37b93a748e3bd4d93bd85b0595717f212d36444bf21ebb08dcb941ebeef7631f",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "screeching",
+        "max_value": "100",
+        "value": "84"
+      },
+      {
+        "trait_type": "youthful",
+        "max_value": "100",
+        "value": "27"
+      },
+      {
+        "trait_type": "entertaining",
+        "max_value": "100",
+        "value": "62"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "grotesque",
+        "max_value": "100",
+        "value": "71"
+      },
+      {
+        "trait_type": "splendid",
+        "max_value": "100",
+        "value": "40"
+      },
+      {
+        "trait_type": "fanatical",
+        "max_value": "100",
+        "value": "82"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #15",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/15.png",
+    "imageSHA256": "ef6d37ec414ca7d4e7b74cde7baacdd73712362671cfc60073cd5282bcd9b6fe",
+    "dna": "31be3e28ae7c28b7059290ba0364c865c20cf60e67dadcc43a1c3fe237331a69",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "watery",
+        "max_value": "100",
+        "value": "4"
+      },
+      {
+        "trait_type": "stimulating",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "mundane",
+        "max_value": "100",
+        "value": "58"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "hushed",
+        "max_value": "100",
+        "value": "80"
+      },
+      {
+        "trait_type": "telling",
+        "max_value": "100",
+        "value": "68"
+      },
+      {
+        "trait_type": "jittery",
+        "max_value": "100",
+        "value": "52"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #16",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/16.png",
+    "imageSHA256": "260213cc392912676f897328292350c3c4c1e66b103e150475832b30858bfaaa",
+    "dna": "5219127e31d862ef6eb07777214d7954fcfb744b315ce6018fd3db8ecad54069",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "puzzled",
+        "max_value": "100",
+        "value": "64"
+      },
+      {
+        "trait_type": "longing",
+        "max_value": "100",
+        "value": "51"
+      },
+      {
+        "trait_type": "erratic",
+        "max_value": "100",
+        "value": "40"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "exuberant",
+        "max_value": "100",
+        "value": "17"
+      },
+      {
+        "trait_type": "lowly",
+        "max_value": "100",
+        "value": "61"
+      },
+      {
+        "trait_type": "protective",
+        "max_value": "100",
+        "value": "69"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #17",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/17.png",
+    "imageSHA256": "6d43cf2a390c972e1feb5f1e73936534d3ac3de98ef2eb0b0083f92d78d4a5d4",
+    "dna": "c15cd26f60e780e85811dd8dbe6d4f182f6d5a3aae81b7ba55d9eaa08ffa87a1",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "aloof",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "quixotic",
+        "max_value": "100",
+        "value": "77"
+      },
+      {
+        "trait_type": "cautious",
+        "max_value": "100",
+        "value": "40"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "minor",
+        "max_value": "100",
+        "value": "31"
+      },
+      {
+        "trait_type": "blue",
+        "max_value": "100",
+        "value": "80"
+      },
+      {
+        "trait_type": "crooked",
+        "max_value": "100",
+        "value": "19"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #18",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/18.png",
+    "imageSHA256": "851907834c9698430c2796d61d7f99858dc38b67b2915fa48e529e835b61e172",
+    "dna": "0064b827643b2433b7d08556928a7416f4bef4cc641dde1473359faa46621ea2",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "pumped",
+        "max_value": "100",
+        "value": "6"
+      },
+      {
+        "trait_type": "boorish",
+        "max_value": "100",
+        "value": "73"
+      },
+      {
+        "trait_type": "pretty",
+        "max_value": "100",
+        "value": "77"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "spectacular",
+        "max_value": "100",
+        "value": "33"
+      },
+      {
+        "trait_type": "greedy",
+        "max_value": "100",
+        "value": "61"
+      },
+      {
+        "trait_type": "macabre",
+        "max_value": "100",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #19",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/19.png",
+    "imageSHA256": "a296a85e84a2ca596f0e60d50e96c12ebe745fd2e24e7d3974eb2cfb1b20de23",
+    "dna": "eeec0df52141200c3b4e2249a2d3c2fe2e04f9fbab58ed58ca16fc5c2e2626a2",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "frail",
+        "max_value": "100",
+        "value": "77"
+      },
+      {
+        "trait_type": "ashamed",
+        "max_value": "100",
+        "value": "5"
+      },
+      {
+        "trait_type": "jolly",
+        "max_value": "100",
+        "value": "7"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "wandering",
+        "max_value": "100",
+        "value": "78"
+      },
+      {
+        "trait_type": "fat",
+        "max_value": "100",
+        "value": "41"
+      },
+      {
+        "trait_type": "bad",
+        "max_value": "100",
+        "value": "90"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #20",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/20.png",
+    "imageSHA256": "a56fc5dfb5bda85c7f837e1051c67e6b83802a5de9cf8ac97c1542c3671071cd",
+    "dna": "ba675bf212432a03914d7539aa6382683cb767dbd9f46c54724d96c585ef3c02",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "hissing",
+        "max_value": "100",
+        "value": "82"
+      },
+      {
+        "trait_type": "lackadaisical",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "wrong",
+        "max_value": "100",
+        "value": "42"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "didactic",
+        "max_value": "100",
+        "value": "72"
+      },
+      {
+        "trait_type": "unaccountable",
+        "max_value": "100",
+        "value": "87"
+      },
+      {
+        "trait_type": "dry",
+        "max_value": "100",
+        "value": "52"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #21",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/21.png",
+    "imageSHA256": "538a3728c12e87dcc3dbe33c17230128e082be4e9098a7bc1acd5c3f6580c0ab",
+    "dna": "7f3b9a39cb9b7b3f6513be4378634f2630521d39dc1704115799b6b4fe43bd16",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "deranged",
+        "max_value": "100",
+        "value": "25"
+      },
+      {
+        "trait_type": "nutty",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "grubby",
+        "max_value": "100",
+        "value": "80"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "economic",
+        "max_value": "100",
+        "value": "1"
+      },
+      {
+        "trait_type": "changeable",
+        "max_value": "100",
+        "value": "66"
+      },
+      {
+        "trait_type": "nonstop",
+        "max_value": "100",
+        "value": "93"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #22",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/22.png",
+    "imageSHA256": "3dbface7f13429f86f655feaf861f915a8bde5cf594e415d7b011124d330ab6f",
+    "dna": "4ad3119bc856bedb17ecc7f2dddaa4673d2b0cea380c0701a5710808ff788eba",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "subsequent",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "noxious",
+        "max_value": "100",
+        "value": "54"
+      },
+      {
+        "trait_type": "excellent",
+        "max_value": "100",
+        "value": "14"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "ethereal",
+        "max_value": "100",
+        "value": "1"
+      },
+      {
+        "trait_type": "sloppy",
+        "max_value": "100",
+        "value": "40"
+      },
+      {
+        "trait_type": "abashed",
+        "max_value": "100",
+        "value": "40"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #23",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/23.png",
+    "imageSHA256": "5d42eb4b51ae7a9b58c05af18217c482167a5a9aa7df78828c1c648b2610ba05",
+    "dna": "c73b40505608ef69962a6f7e405b881c5fb86f7f1f7800e2755bbd711359e69f",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "rapid",
+        "max_value": "100",
+        "value": "93"
+      },
+      {
+        "trait_type": "lucky",
+        "max_value": "100",
+        "value": "98"
+      },
+      {
+        "trait_type": "vigorous",
+        "max_value": "100",
+        "value": "86"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "gullible",
+        "max_value": "100",
+        "value": "7"
+      },
+      {
+        "trait_type": "resonant",
+        "max_value": "100",
+        "value": "24"
+      },
+      {
+        "trait_type": "colossal",
+        "max_value": "100",
+        "value": "35"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #24",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/24.png",
+    "imageSHA256": "411027ccba75791883014c872a681490973e777ba4155267fcd237393ee95fe3",
+    "dna": "aed505d79b73b1bd1e9227f54a60db31a078583e63e0b3c299982df1fc11de1b",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "delightful",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "knotty",
+        "max_value": "100",
+        "value": "16"
+      },
+      {
+        "trait_type": "discreet",
+        "max_value": "100",
+        "value": "32"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "kaput",
+        "max_value": "100",
+        "value": "18"
+      },
+      {
+        "trait_type": "odd",
+        "max_value": "100",
+        "value": "15"
+      },
+      {
+        "trait_type": "longing",
+        "max_value": "100",
+        "value": "64"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #25",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/25.png",
+    "imageSHA256": "6a750ea13a5d7ad03afdd75aba5a66c69a4ef228d2d59d7182e360f617e7e9d3",
+    "dna": "eb580102878568d97407a560c687d4bf144b8bec537a584cb29eaf61e414a168",
+    "edition": 25,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "wise",
+        "max_value": "100",
+        "value": "6"
+      },
+      {
+        "trait_type": "breakable",
+        "max_value": "100",
+        "value": "97"
+      },
+      {
+        "trait_type": "fancy",
+        "max_value": "100",
+        "value": "38"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "bizarre",
+        "max_value": "100",
+        "value": "44"
+      },
+      {
+        "trait_type": "racial",
+        "max_value": "100",
+        "value": "65"
+      },
+      {
+        "trait_type": "lively",
+        "max_value": "100",
+        "value": "64"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #26",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/26.png",
+    "imageSHA256": "30684ad5d4d2606a33803108aefbfb8341c25c15af0d3330cc19755c4dce358a",
+    "dna": "944c696c005609ce61a9ec527b465779618113631606df62bb2454a976926fd0",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "obsolete",
+        "max_value": "100",
+        "value": "19"
+      },
+      {
+        "trait_type": "flashy",
+        "max_value": "100",
+        "value": "79"
+      },
+      {
+        "trait_type": "proud",
+        "max_value": "100",
+        "value": "92"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "icky",
+        "max_value": "100",
+        "value": "94"
+      },
+      {
+        "trait_type": "absent",
+        "max_value": "100",
+        "value": "79"
+      },
+      {
+        "trait_type": "malicious",
+        "max_value": "100",
+        "value": "98"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #27",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/27.png",
+    "imageSHA256": "cac9ea4fed44c0e4dcf371d00f87299005837c238f3aec06ce42042d5ea8e153",
+    "dna": "d8ef1784b1702786220c0fa3b4a5db3d69b074839f1535318f5a1b70b12febcf",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "old-fashioned",
+        "max_value": "100",
+        "value": "11"
+      },
+      {
+        "trait_type": "tricky",
+        "max_value": "100",
+        "value": "24"
+      },
+      {
+        "trait_type": "ethereal",
+        "max_value": "100",
+        "value": "39"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "hurried",
+        "max_value": "100",
+        "value": "16"
+      },
+      {
+        "trait_type": "tired",
+        "max_value": "100",
+        "value": "8"
+      },
+      {
+        "trait_type": "magical",
+        "max_value": "100",
+        "value": "15"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #28",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/28.png",
+    "imageSHA256": "b3ef9e63ab23076dd80fd7e9ad6ac8e3666fb331ad8915e9abb342e0d3c64a45",
+    "dna": "57471249cb3bd5564d2356144ee78f2ba173ce8f95224d36f7e624771c18fb60",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "imported",
+        "max_value": "100",
+        "value": "3"
+      },
+      {
+        "trait_type": "rhetorical",
+        "max_value": "100",
+        "value": "80"
+      },
+      {
+        "trait_type": "amuck",
+        "max_value": "100",
+        "value": "29"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "squealing",
+        "max_value": "100",
+        "value": "98"
+      },
+      {
+        "trait_type": "jumbled",
+        "max_value": "100",
+        "value": "52"
+      },
+      {
+        "trait_type": "numberless",
+        "max_value": "100",
+        "value": "70"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #29",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/29.png",
+    "imageSHA256": "618134947f1ba49f2b264c9057d39c6c43721a4cc687fa15452925d0e85e8ce4",
+    "dna": "f302d951a7a451a963eb71e839011145ca6421c20b6596da14b32beea943098b",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "evil",
+        "max_value": "100",
+        "value": "18"
+      },
+      {
+        "trait_type": "glamorous",
+        "max_value": "100",
+        "value": "33"
+      },
+      {
+        "trait_type": "parched",
+        "max_value": "100",
+        "value": "8"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "acceptable",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "painful",
+        "max_value": "100",
+        "value": "85"
+      },
+      {
+        "trait_type": "oval",
+        "max_value": "100",
+        "value": "54"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #30",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/30.png",
+    "imageSHA256": "a2feb098a61af278edb637059ae0f017f33cfa909583a11b5c82a40e68a5f9f1",
+    "dna": "2557813d19416edc58d1a1089a89a830c2d84fdfdffd03c5b35d9b3b4469ca92",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "needless",
+        "max_value": "100",
+        "value": "1"
+      },
+      {
+        "trait_type": "gainful",
+        "max_value": "100",
+        "value": "70"
+      },
+      {
+        "trait_type": "aloof",
+        "max_value": "100",
+        "value": "73"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "better",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "wide",
+        "max_value": "100",
+        "value": "99"
+      },
+      {
+        "trait_type": "resolute",
+        "max_value": "100",
+        "value": "58"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #31",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/31.png",
+    "imageSHA256": "e5710dccc31d33caa7d67375730e30b7b63c64cbb02afd601937ee9dff6d601c",
+    "dna": "98b325c00b2699bd0e8f5a3fab29f890f8fa35e7284019bb7c9864c26ca2e4fb",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "jumpy",
+        "max_value": "100",
+        "value": "45"
+      },
+      {
+        "trait_type": "rapid",
+        "max_value": "100",
+        "value": "85"
+      },
+      {
+        "trait_type": "adhesive",
+        "max_value": "100",
+        "value": "47"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "early",
+        "max_value": "100",
+        "value": "75"
+      },
+      {
+        "trait_type": "languid",
+        "max_value": "100",
+        "value": "37"
+      },
+      {
+        "trait_type": "psychedelic",
+        "max_value": "100",
+        "value": "28"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #32",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/32.png",
+    "imageSHA256": "e859b9b2f1c736018d4e1a9d526b7c84989f9f97d8dd76b99640921dafbe360b",
+    "dna": "4d34a1dd1cbb2106517594a8958b6e376bf4b050f3b50b2d0d169a85f67d2840",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "confused",
+        "max_value": "100",
+        "value": "13"
+      },
+      {
+        "trait_type": "unarmed",
+        "max_value": "100",
+        "value": "62"
+      },
+      {
+        "trait_type": "vengeful",
+        "max_value": "100",
+        "value": "32"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "glamorous",
+        "max_value": "100",
+        "value": "79"
+      },
+      {
+        "trait_type": "watchful",
+        "max_value": "100",
+        "value": "43"
+      },
+      {
+        "trait_type": "judicious",
+        "max_value": "100",
+        "value": "17"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #33",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/33.png",
+    "imageSHA256": "3646e009f71cb3a5d2174ce3efd21cf732b0689e4a983914a34c1724ab8b371b",
+    "dna": "de0fa1c57021a7731b64f5c3dd4715dcfb89925fc8bc29df88a3c09d752781aa",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "juicy",
+        "max_value": "100",
+        "value": "21"
+      },
+      {
+        "trait_type": "small",
+        "max_value": "100",
+        "value": "18"
+      },
+      {
+        "trait_type": "exclusive",
+        "max_value": "100",
+        "value": "90"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "humorous",
+        "max_value": "100",
+        "value": "11"
+      },
+      {
+        "trait_type": "various",
+        "max_value": "100",
+        "value": "94"
+      },
+      {
+        "trait_type": "busy",
+        "max_value": "100",
+        "value": "76"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #34",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/34.png",
+    "imageSHA256": "9adb75ac6c1f4c2b4a57ab64274c18e768b10a6cda6ac71e9f165d52d13bf0f1",
+    "dna": "eafdd5ac09f4e46265b2025b7ce0d17a68eb5f011b9241b5c454ff9ac7b7df86",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "utopian",
+        "max_value": "100",
+        "value": "68"
+      },
+      {
+        "trait_type": "detailed",
+        "max_value": "100",
+        "value": "47"
+      },
+      {
+        "trait_type": "quixotic",
+        "max_value": "100",
+        "value": "90"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "shivering",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "giddy",
+        "max_value": "100",
+        "value": "74"
+      },
+      {
+        "trait_type": "clean",
+        "max_value": "100",
+        "value": "92"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #35",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/35.png",
+    "imageSHA256": "cd817e41bbe774da21448cace76ebbb3d2ee4ce7a5cb2a6ae0074d35838e2dcc",
+    "dna": "4a1960b487f3196f07199a61e7086c30f2787ed27b5adc6fb7603199a31bcd60",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "beautiful",
+        "max_value": "100",
+        "value": "71"
+      },
+      {
+        "trait_type": "honorable",
+        "max_value": "100",
+        "value": "58"
+      },
+      {
+        "trait_type": "accessible",
+        "max_value": "100",
+        "value": "42"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "anxious",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "small",
+        "max_value": "100",
+        "value": "21"
+      },
+      {
+        "trait_type": "lying",
+        "max_value": "100",
+        "value": "98"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #36",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/36.png",
+    "imageSHA256": "9cd87173f3a54e628a4038de70b5b6b9803c94b8238ea1eb6e65f6865889aeef",
+    "dna": "6e683f2aa1c3a11171d500c0791b0f0dbfe2c128074317e7fe2c3dbeb4bd1784",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "bawdy",
+        "max_value": "100",
+        "value": "95"
+      },
+      {
+        "trait_type": "steep",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "unbecoming",
+        "max_value": "100",
+        "value": "97"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "burly",
+        "max_value": "100",
+        "value": "53"
+      },
+      {
+        "trait_type": "psychedelic",
+        "max_value": "100",
+        "value": "62"
+      },
+      {
+        "trait_type": "acrid",
+        "max_value": "100",
+        "value": "60"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #37",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/37.png",
+    "imageSHA256": "1bd7e38b81c10f6a82c6b78ce6ec9aa1760a10b3732d5cfdb078d584b049210c",
+    "dna": "c0609c6d6d589248ba2c90bbcf9f8ed09916918da5bd18085d89a48dcce4e362",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "miniature",
+        "max_value": "100",
+        "value": "97"
+      },
+      {
+        "trait_type": "boiling",
+        "max_value": "100",
+        "value": "51"
+      },
+      {
+        "trait_type": "glib",
+        "max_value": "100",
+        "value": "89"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "observant",
+        "max_value": "100",
+        "value": "57"
+      },
+      {
+        "trait_type": "sour",
+        "max_value": "100",
+        "value": "39"
+      },
+      {
+        "trait_type": "excited",
+        "max_value": "100",
+        "value": "16"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #38",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/38.png",
+    "imageSHA256": "77acbf379e8a4b5218b95e9a0d48bbef56731ed39557b0aaa8fc75cd0068fa56",
+    "dna": "686ffc0ba3c90fc28dd637467de334bf8a6c40d562e08444405f1dcfaee64747",
+    "edition": 38,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "smiling",
+        "max_value": "100",
+        "value": "50"
+      },
+      {
+        "trait_type": "clammy",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "teeny-tiny",
+        "max_value": "100",
+        "value": "39"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "high-pitched",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "upset",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "tightfisted",
+        "max_value": "100",
+        "value": "93"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #39",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/39.png",
+    "imageSHA256": "cd534522e3b65a570e2edf521a47b0e2d3981514c508a14829978918d122ab9d",
+    "dna": "eb53cd7092b4b0cd206b477d1cb7fbc4f8051dc3515eb05cb2572164af7fc614",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "halting",
+        "max_value": "100",
+        "value": "13"
+      },
+      {
+        "trait_type": "fluffy",
+        "max_value": "100",
+        "value": "37"
+      },
+      {
+        "trait_type": "elegant",
+        "max_value": "100",
+        "value": "51"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "excited",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "acrid",
+        "max_value": "100",
+        "value": "95"
+      },
+      {
+        "trait_type": "abrasive",
+        "max_value": "100",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #40",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/40.png",
+    "imageSHA256": "bc08b3f72c5064338f08855cccb9936836c08836889f77bc1a224bf90ce2c211",
+    "dna": "c9ca8f0e53a336d7c63367113e72420a69d8d3874d8d793b467031ab41676a9e",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "quack",
+        "max_value": "100",
+        "value": "20"
+      },
+      {
+        "trait_type": "witty",
+        "max_value": "100",
+        "value": "6"
+      },
+      {
+        "trait_type": "vivacious",
+        "max_value": "100",
+        "value": "11"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "therapeutic",
+        "max_value": "100",
+        "value": "65"
+      },
+      {
+        "trait_type": "righteous",
+        "max_value": "100",
+        "value": "47"
+      },
+      {
+        "trait_type": "glorious",
+        "max_value": "100",
+        "value": "24"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #41",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/41.png",
+    "imageSHA256": "ef31db8f19c06c67be2c553e7533fe001bc4aa45393e0df57fa59de9ab08e3dd",
+    "dna": "b0c60e665270d5e21333bc5b8598096855fa0c6dd9704dc5eb70ac9a7a427818",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "taboo",
+        "max_value": "100",
+        "value": "38"
+      },
+      {
+        "trait_type": "discreet",
+        "max_value": "100",
+        "value": "69"
+      },
+      {
+        "trait_type": "pastoral",
+        "max_value": "100",
+        "value": "23"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "broad",
+        "max_value": "100",
+        "value": "99"
+      },
+      {
+        "trait_type": "ruthless",
+        "max_value": "100",
+        "value": "32"
+      },
+      {
+        "trait_type": "mighty",
+        "max_value": "100",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #42",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/42.png",
+    "imageSHA256": "425b2f01e85a30ece22cfb499bfc4ccc48368c4d6705b17ef31c2dfa2408bc24",
+    "dna": "a27690ee482bd0f4719af4ba9b62b85c3b4c66b4f65a036c43e83e5e8cb0e4b3",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "unusual",
+        "max_value": "100",
+        "value": "61"
+      },
+      {
+        "trait_type": "godly",
+        "max_value": "100",
+        "value": "26"
+      },
+      {
+        "trait_type": "tight",
+        "max_value": "100",
+        "value": "45"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "tasteless",
+        "max_value": "100",
+        "value": "68"
+      },
+      {
+        "trait_type": "distinct",
+        "max_value": "100",
+        "value": "15"
+      },
+      {
+        "trait_type": "marked",
+        "max_value": "100",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #43",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/43.png",
+    "imageSHA256": "52f6f37a25a0f7bf8be7d65565d3494cc2f27a288bca8bd35651fd999a29d848",
+    "dna": "a4d451185a377f265b72695c42fe41096f4c71860aba010bf2af340a85919d0e",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "wicked",
+        "max_value": "100",
+        "value": "12"
+      },
+      {
+        "trait_type": "uptight",
+        "max_value": "100",
+        "value": "71"
+      },
+      {
+        "trait_type": "erratic",
+        "max_value": "100",
+        "value": "89"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "belligerent",
+        "max_value": "100",
+        "value": "22"
+      },
+      {
+        "trait_type": "futuristic",
+        "max_value": "100",
+        "value": "20"
+      },
+      {
+        "trait_type": "husky",
+        "max_value": "100",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #44",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/44.png",
+    "imageSHA256": "745a174094cbb50f475c110126eba599f56c9c0a48694cbd9fcf46127796ab15",
+    "dna": "65922f62238f1e488bb1bec2f9a1f1e6c30be67a9c171973b03b28975a81e819",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "sore",
+        "max_value": "100",
+        "value": "43"
+      },
+      {
+        "trait_type": "bored",
+        "max_value": "100",
+        "value": "34"
+      },
+      {
+        "trait_type": "forgetful",
+        "max_value": "100",
+        "value": "86"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "deafening",
+        "max_value": "100",
+        "value": "54"
+      },
+      {
+        "trait_type": "oceanic",
+        "max_value": "100",
+        "value": "20"
+      },
+      {
+        "trait_type": "abundant",
+        "max_value": "100",
+        "value": "16"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #45",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/45.png",
+    "imageSHA256": "7fa5be0eb42fbbcf4b00cdae911c02db006e41aed7e384db6631a14f240871b9",
+    "dna": "ae872cdf28678d90aaee2e8f5ffa5db2d825a7ee8c4af1f044abcb7720f8d870",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "eatable",
+        "max_value": "100",
+        "value": "57"
+      },
+      {
+        "trait_type": "changeable",
+        "max_value": "100",
+        "value": "89"
+      },
+      {
+        "trait_type": "scintillating",
+        "max_value": "100",
+        "value": "86"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "comfortable",
+        "max_value": "100",
+        "value": "100"
+      },
+      {
+        "trait_type": "yummy",
+        "max_value": "100",
+        "value": "41"
+      },
+      {
+        "trait_type": "gainful",
+        "max_value": "100",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #46",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/46.png",
+    "imageSHA256": "a0a90535050247db7ba7992cf2703385a986e93031aa71e60d17e06ca900471d",
+    "dna": "ab2105f13630855fbb405a5dad32705ff0c824d573c0018289f74ad2f1333d0e",
+    "edition": 46,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "labored",
+        "max_value": "100",
+        "value": "74"
+      },
+      {
+        "trait_type": "drunk",
+        "max_value": "100",
+        "value": "14"
+      },
+      {
+        "trait_type": "hard",
+        "max_value": "100",
+        "value": "47"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "abiding",
+        "max_value": "100",
+        "value": "51"
+      },
+      {
+        "trait_type": "willing",
+        "max_value": "100",
+        "value": "2"
+      },
+      {
+        "trait_type": "cynical",
+        "max_value": "100",
+        "value": "11"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #47",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/47.png",
+    "imageSHA256": "ac50e669801dacb864220b567b52bec9557606c62ee52ad2af246d7784cac5c5",
+    "dna": "cd6c9cadce9b6ea3eaded1bbb7b38a33b255801f221be08d7051df754de3cba3",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "oceanic",
+        "max_value": "100",
+        "value": "53"
+      },
+      {
+        "trait_type": "absorbed",
+        "max_value": "100",
+        "value": "10"
+      },
+      {
+        "trait_type": "average",
+        "max_value": "100",
+        "value": "95"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "overjoyed",
+        "max_value": "100",
+        "value": "5"
+      },
+      {
+        "trait_type": "zippy",
+        "max_value": "100",
+        "value": "78"
+      },
+      {
+        "trait_type": "disturbed",
+        "max_value": "100",
+        "value": "54"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #48",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/48.png",
+    "imageSHA256": "4c86c2d4ce9d1367bd3e259cb01000ae343728da6c0a98b56f54f749786f034c",
+    "dna": "b41d5d7ea470620d3365031289238da1a45b7f8c5ec3c5072803eee6cd06b069",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "nostalgic",
+        "max_value": "100",
+        "value": "85"
+      },
+      {
+        "trait_type": "kind",
+        "max_value": "100",
+        "value": "60"
+      },
+      {
+        "trait_type": "annoyed",
+        "max_value": "100",
+        "value": "68"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "mundane",
+        "max_value": "100",
+        "value": "34"
+      },
+      {
+        "trait_type": "fretful",
+        "max_value": "100",
+        "value": "36"
+      },
+      {
+        "trait_type": "mighty",
+        "max_value": "100",
+        "value": "11"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #49",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/49.png",
+    "imageSHA256": "4b4f94bd97204d6ffb94317f1d00d6b7e1b2242a00173732c6253917189d7584",
+    "dna": "3a3e7d76c72b243bf880f2e1380e890ed5c8145446031fc4ca2b978ced0d732a",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "repulsive",
+        "max_value": "100",
+        "value": "69"
+      },
+      {
+        "trait_type": "dapper",
+        "max_value": "100",
+        "value": "65"
+      },
+      {
+        "trait_type": "dead",
+        "max_value": "100",
+        "value": "46"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "wry",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "narrow",
+        "max_value": "100",
+        "value": "90"
+      },
+      {
+        "trait_type": "thirsty",
+        "max_value": "100",
+        "value": "51"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #50",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/50.png",
+    "imageSHA256": "19ed7d9f3e1e333e1eed8a0113fe0da04dcaef77e732140be11c09e1d56fc9ac",
+    "dna": "9f7eb7895cb82ea59fd7b05b84fb76032bb0d69e6c5362f21347a987054bf5e9",
+    "edition": 50,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "tangy",
+        "max_value": "100",
+        "value": "25"
+      },
+      {
+        "trait_type": "gruesome",
+        "max_value": "100",
+        "value": "89"
+      },
+      {
+        "trait_type": "obsequious",
+        "max_value": "100",
+        "value": "90"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "deeply",
+        "max_value": "100",
+        "value": "44"
+      },
+      {
+        "trait_type": "agreeable",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "flagrant",
+        "max_value": "100",
+        "value": "68"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #51",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/51.png",
+    "imageSHA256": "3d43860a97fb8532db5aac73ba206c59dfcad34b25dedfd80a39ef6f1833747a",
+    "dna": "8adc4ef097c923e4d665efb2179ccd3c791b250699eee2ed764c76878bd9cce0",
+    "edition": 51,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "frantic",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "succinct",
+        "max_value": "100",
+        "value": "13"
+      },
+      {
+        "trait_type": "rich",
+        "max_value": "100",
+        "value": "29"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "ultra",
+        "max_value": "100",
+        "value": "23"
+      },
+      {
+        "trait_type": "powerful",
+        "max_value": "100",
+        "value": "44"
+      },
+      {
+        "trait_type": "periodic",
+        "max_value": "100",
+        "value": "86"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #52",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/52.png",
+    "imageSHA256": "6b13929114a4be86ecd9660ac87e10738837f2b2cf5bb088b117c1c4018b2700",
+    "dna": "2d32b5024bc8fea96164915611df76ec82a09b9c8a9c720d36770b60c12a98df",
+    "edition": 52,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "harsh",
+        "max_value": "100",
+        "value": "11"
+      },
+      {
+        "trait_type": "fortunate",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "gleaming",
+        "max_value": "100",
+        "value": "7"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "cold",
+        "max_value": "100",
+        "value": "2"
+      },
+      {
+        "trait_type": "flowery",
+        "max_value": "100",
+        "value": "63"
+      },
+      {
+        "trait_type": "glossy",
+        "max_value": "100",
+        "value": "72"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #53",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/53.png",
+    "imageSHA256": "b027fd9ff891888ca4c88ae49a264a2b78e403d7edb11bbed07102c6400aa42a",
+    "dna": "46d6f67bfe62bc5b413960c2dc9fd13c5aa10422480dafc5f6790120aa04af0c",
+    "edition": 53,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "huge",
+        "max_value": "100",
+        "value": "17"
+      },
+      {
+        "trait_type": "tearful",
+        "max_value": "100",
+        "value": "74"
+      },
+      {
+        "trait_type": "abaft",
+        "max_value": "100",
+        "value": "4"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "discreet",
+        "max_value": "100",
+        "value": "19"
+      },
+      {
+        "trait_type": "teeny-tiny",
+        "max_value": "100",
+        "value": "44"
+      },
+      {
+        "trait_type": "rebellious",
+        "max_value": "100",
+        "value": "21"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #54",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/54.png",
+    "imageSHA256": "38d356a911ab165c862b9f0f134164a99c65876259d24a9df30568d8ec44a382",
+    "dna": "a246f6e4e9a8b5919e7eebef1e8e7258acbc57f4593074b2f82163f8bb6f51c6",
+    "edition": 54,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "enchanting",
+        "max_value": "100",
+        "value": "16"
+      },
+      {
+        "trait_type": "daily",
+        "max_value": "100",
+        "value": "6"
+      },
+      {
+        "trait_type": "huge",
+        "max_value": "100",
+        "value": "57"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "steep",
+        "max_value": "100",
+        "value": "21"
+      },
+      {
+        "trait_type": "literate",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "amused",
+        "max_value": "100",
+        "value": "57"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #55",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/55.png",
+    "imageSHA256": "6528540d276ac54231f653f79b53e19767d251b1641d4cc33cc72aa289a6c53f",
+    "dna": "411dacb0f53954b7703e7a34385cb4d183edd683e9ff0e73dbb5663d7161c737",
+    "edition": 55,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "omniscient",
+        "max_value": "100",
+        "value": "94"
+      },
+      {
+        "trait_type": "resonant",
+        "max_value": "100",
+        "value": "96"
+      },
+      {
+        "trait_type": "jagged",
+        "max_value": "100",
+        "value": "77"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "better",
+        "max_value": "100",
+        "value": "47"
+      },
+      {
+        "trait_type": "misty",
+        "max_value": "100",
+        "value": "40"
+      },
+      {
+        "trait_type": "recondite",
+        "max_value": "100",
+        "value": "57"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #56",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/56.png",
+    "imageSHA256": "dc95c859360df5373ed704706cb3e69cf5621bfcc07ebcdd1b05263139a0899c",
+    "dna": "bc61311c77f0985e2595ea915cd042701b6d5e2db22f6409c392e8ccbcde3acf",
+    "edition": 56,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "overjoyed",
+        "max_value": "100",
+        "value": "61"
+      },
+      {
+        "trait_type": "obedient",
+        "max_value": "100",
+        "value": "45"
+      },
+      {
+        "trait_type": "trashy",
+        "max_value": "100",
+        "value": "41"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "macabre",
+        "max_value": "100",
+        "value": "79"
+      },
+      {
+        "trait_type": "illegal",
+        "max_value": "100",
+        "value": "92"
+      },
+      {
+        "trait_type": "secretive",
+        "max_value": "100",
+        "value": "27"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #57",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/57.png",
+    "imageSHA256": "a6c345425f2063eb10146d082411f4c7cc7b735036b42569b4d43a8168111e0a",
+    "dna": "2c8988710ebec9daf33876bd32e71dd5384bbdf99853d808b19ec70b97bd1b39",
+    "edition": 57,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "wacky",
+        "max_value": "100",
+        "value": "85"
+      },
+      {
+        "trait_type": "omniscient",
+        "max_value": "100",
+        "value": "42"
+      },
+      {
+        "trait_type": "worried",
+        "max_value": "100",
+        "value": "98"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "hypnotic",
+        "max_value": "100",
+        "value": "12"
+      },
+      {
+        "trait_type": "historical",
+        "max_value": "100",
+        "value": "65"
+      },
+      {
+        "trait_type": "tall",
+        "max_value": "100",
+        "value": "47"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #58",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/58.png",
+    "imageSHA256": "eba4aeecdc2d29163ccf91e7c1d70e71968c41fdf566aae5ad3bc2143afeef9e",
+    "dna": "38b5a3f702234111cf2ca2924a5abd80c50721e0237dd21e96551a4d8cb3a613",
+    "edition": 58,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "filthy",
+        "max_value": "100",
+        "value": "59"
+      },
+      {
+        "trait_type": "loud",
+        "max_value": "100",
+        "value": "22"
+      },
+      {
+        "trait_type": "giddy",
+        "max_value": "100",
+        "value": "48"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "bitter",
+        "max_value": "100",
+        "value": "35"
+      },
+      {
+        "trait_type": "hurried",
+        "max_value": "100",
+        "value": "24"
+      },
+      {
+        "trait_type": "quack",
+        "max_value": "100",
+        "value": "27"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #59",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/59.png",
+    "imageSHA256": "e4a7701bcb36fc5f83559e4520e90b6f29c8e3a89557e0411eb799dea78de0d4",
+    "dna": "a05256e1d9ace11d09c021486487b880197f130a23d98857cff087e93dc1e81b",
+    "edition": 59,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "rural",
+        "max_value": "100",
+        "value": "89"
+      },
+      {
+        "trait_type": "organic",
+        "max_value": "100",
+        "value": "98"
+      },
+      {
+        "trait_type": "auspicious",
+        "max_value": "100",
+        "value": "25"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "malicious",
+        "max_value": "100",
+        "value": "6"
+      },
+      {
+        "trait_type": "troubled",
+        "max_value": "100",
+        "value": "62"
+      },
+      {
+        "trait_type": "telling",
+        "max_value": "100",
+        "value": "47"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #60",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/60.png",
+    "imageSHA256": "5eec08c175eee3f04c401d5ad0a73d511bc2fb01f226e94237a5a38a9a2be059",
+    "dna": "ad15c94f06db5303eea0dfd8e1334066b298eaf347f7185f20f49a9fb0efdb75",
+    "edition": 60,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "erratic",
+        "max_value": "100",
+        "value": "66"
+      },
+      {
+        "trait_type": "absorbing",
+        "max_value": "100",
+        "value": "35"
+      },
+      {
+        "trait_type": "womanly",
+        "max_value": "100",
+        "value": "38"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "calm",
+        "max_value": "100",
+        "value": "69"
+      },
+      {
+        "trait_type": "disgusted",
+        "max_value": "100",
+        "value": "82"
+      },
+      {
+        "trait_type": "gaping",
+        "max_value": "100",
+        "value": "22"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #61",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/61.png",
+    "imageSHA256": "b9ebdb95808e5776e07ce2717972bc1bab997a75e2c6528aec849627d7a82ebc",
+    "dna": "3d9c96a9213255216712289238b6434155a5b0e03cbfe3a7169bda0021d6b060",
+    "edition": 61,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "elfin",
+        "max_value": "100",
+        "value": "42"
+      },
+      {
+        "trait_type": "burly",
+        "max_value": "100",
+        "value": "62"
+      },
+      {
+        "trait_type": "legal",
+        "max_value": "100",
+        "value": "40"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "towering",
+        "max_value": "100",
+        "value": "9"
+      },
+      {
+        "trait_type": "eager",
+        "max_value": "100",
+        "value": "32"
+      },
+      {
+        "trait_type": "threatening",
+        "max_value": "100",
+        "value": "69"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #62",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/62.png",
+    "imageSHA256": "06e0df7d6a208d0448ae27b2c8df7026e4db9212b97c6fd47ee16cabf41db879",
+    "dna": "695b1d21c565ee3bf00f29a50bac4ec284ef6dba44bb1db19384f4b5cbc368cb",
+    "edition": 62,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "boorish",
+        "max_value": "100",
+        "value": "95"
+      },
+      {
+        "trait_type": "satisfying",
+        "max_value": "100",
+        "value": "93"
+      },
+      {
+        "trait_type": "gabby",
+        "max_value": "100",
+        "value": "66"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "spooky",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "decisive",
+        "max_value": "100",
+        "value": "10"
+      },
+      {
+        "trait_type": "plucky",
+        "max_value": "100",
+        "value": "12"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #63",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/63.png",
+    "imageSHA256": "13856b842fb7327e4f50126e35867f84ca9b07a4b79be46c84d8c09ae76c323f",
+    "dna": "843969388738f886676b835d915d5f6ccdb3a20f439b2d0c0dbe57f3420da711",
+    "edition": 63,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "lovely",
+        "max_value": "100",
+        "value": "89"
+      },
+      {
+        "trait_type": "slow",
+        "max_value": "100",
+        "value": "27"
+      },
+      {
+        "trait_type": "imaginary",
+        "max_value": "100",
+        "value": "4"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "vague",
+        "max_value": "100",
+        "value": "74"
+      },
+      {
+        "trait_type": "steep",
+        "max_value": "100",
+        "value": "95"
+      },
+      {
+        "trait_type": "level",
+        "max_value": "100",
+        "value": "21"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #64",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/64.png",
+    "imageSHA256": "3da5fefe6b0fc4ff8d621b14132e75b46e909dc848cfa9af64b47c241a3804e8",
+    "dna": "33fe8c9e2ab8a4b3b95fbae963035124fcd7908ecb55c1a1b13be18c6d83caac",
+    "edition": 64,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "combative",
+        "max_value": "100",
+        "value": "8"
+      },
+      {
+        "trait_type": "smoggy",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "coherent",
+        "max_value": "100",
+        "value": "39"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "sour",
+        "max_value": "100",
+        "value": "67"
+      },
+      {
+        "trait_type": "absurd",
+        "max_value": "100",
+        "value": "73"
+      },
+      {
+        "trait_type": "offbeat",
+        "max_value": "100",
+        "value": "96"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #65",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/65.png",
+    "imageSHA256": "33913d47cd05654cff14c1bb9632a1c26d802e166dc7db4b328d6b3cae08c5ad",
+    "dna": "a90863d3ac556c9b8f2f02f546dc5141ac991b1e81051896faf17812cb3234da",
+    "edition": 65,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "ubiquitous",
+        "max_value": "100",
+        "value": "53"
+      },
+      {
+        "trait_type": "handsome",
+        "max_value": "100",
+        "value": "20"
+      },
+      {
+        "trait_type": "gullible",
+        "max_value": "100",
+        "value": "60"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "distinct",
+        "max_value": "100",
+        "value": "64"
+      },
+      {
+        "trait_type": "joyous",
+        "max_value": "100",
+        "value": "19"
+      },
+      {
+        "trait_type": "cute",
+        "max_value": "100",
+        "value": "21"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #66",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/66.png",
+    "imageSHA256": "5bedb0dba52ab79456c4c442bd68cbe23ebea741b50519452ead72cf8fc8ceae",
+    "dna": "1e939f37a787a4bf3e9f8f6e69ff0e94632ee7624165d65b94cb5008c9b311fa",
+    "edition": 66,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "gifted",
+        "max_value": "100",
+        "value": "25"
+      },
+      {
+        "trait_type": "earsplitting",
+        "max_value": "100",
+        "value": "36"
+      },
+      {
+        "trait_type": "assorted",
+        "max_value": "100",
+        "value": "87"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "utter",
+        "max_value": "100",
+        "value": "42"
+      },
+      {
+        "trait_type": "nondescript",
+        "max_value": "100",
+        "value": "1"
+      },
+      {
+        "trait_type": "parsimonious",
+        "max_value": "100",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #67",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/67.png",
+    "imageSHA256": "1eea43181cd799c226ebbbfd2e555cadb20147068e4318501522aa98a877aa17",
+    "dna": "162fb6811263e01a5d6af5f2f875ac445c8fc81597459dcf1365c2776ff57b24",
+    "edition": 67,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "magical",
+        "max_value": "100",
+        "value": "97"
+      },
+      {
+        "trait_type": "teeny-tiny",
+        "max_value": "100",
+        "value": "97"
+      },
+      {
+        "trait_type": "ethereal",
+        "max_value": "100",
+        "value": "52"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "icky",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "rare",
+        "max_value": "100",
+        "value": "34"
+      },
+      {
+        "trait_type": "learned",
+        "max_value": "100",
+        "value": "90"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #68",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/68.png",
+    "imageSHA256": "b7750e2c217d3a551f1435b5a9a06729f139a075f470238c0f86174553c4b37c",
+    "dna": "811c2ad0fabaf9c59d655fd395cf088988569649d89d389c0c65daf2fd9d5e27",
+    "edition": 68,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "finicky",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "outrageous",
+        "max_value": "100",
+        "value": "51"
+      },
+      {
+        "trait_type": "daffy",
+        "max_value": "100",
+        "value": "15"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "noxious",
+        "max_value": "100",
+        "value": "41"
+      },
+      {
+        "trait_type": "shallow",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "wistful",
+        "max_value": "100",
+        "value": "45"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #69",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/69.png",
+    "imageSHA256": "ee8af25142fb6acf2534da6eb9f9831f50ddb2a41a6bb33d356f1c8184d8d68b",
+    "dna": "67230d49cc5b4e21f01869ad7cb653c8bd741ff4f5271ad95897c0efbbaf82fb",
+    "edition": 69,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "faded",
+        "max_value": "100",
+        "value": "97"
+      },
+      {
+        "trait_type": "quaint",
+        "max_value": "100",
+        "value": "46"
+      },
+      {
+        "trait_type": "many",
+        "max_value": "100",
+        "value": "20"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "ratty",
+        "max_value": "100",
+        "value": "92"
+      },
+      {
+        "trait_type": "mindless",
+        "max_value": "100",
+        "value": "35"
+      },
+      {
+        "trait_type": "picayune",
+        "max_value": "100",
+        "value": "52"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #70",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/70.png",
+    "imageSHA256": "ff051afc13adcc0afea87e1a76b122358ec09fe1d64c37954cb4f0e0380aae6e",
+    "dna": "3b3f256f85a9c3aaabfce15c358c43fd5d2fce8f6ee3779e4dce46fbba342bbb",
+    "edition": 70,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "overconfident",
+        "max_value": "100",
+        "value": "36"
+      },
+      {
+        "trait_type": "disgusted",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "zealous",
+        "max_value": "100",
+        "value": "8"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "tightfisted",
+        "max_value": "100",
+        "value": "17"
+      },
+      {
+        "trait_type": "recondite",
+        "max_value": "100",
+        "value": "92"
+      },
+      {
+        "trait_type": "gifted",
+        "max_value": "100",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #71",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/71.png",
+    "imageSHA256": "10a9ec8da4851ed5695fbdd4b6f36d600afba02fcd15d66f68b932d9ed30b9cb",
+    "dna": "7315171fae157ebd264129ea5d0362f747b82c169316c72ec78c016476891b0c",
+    "edition": 71,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "temporary",
+        "max_value": "100",
+        "value": "43"
+      },
+      {
+        "trait_type": "auspicious",
+        "max_value": "100",
+        "value": "63"
+      },
+      {
+        "trait_type": "subdued",
+        "max_value": "100",
+        "value": "72"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "long",
+        "max_value": "100",
+        "value": "57"
+      },
+      {
+        "trait_type": "plucky",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "subsequent",
+        "max_value": "100",
+        "value": "55"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #72",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/72.png",
+    "imageSHA256": "e2d14d72444488d26c91917e0c8a3a5af83a7328a60a27c5d6b8fef4939601a3",
+    "dna": "3060eec45a9102e7ebf47d17e64bfebbc83c274fc0e7642664a825f1224ee5dc",
+    "edition": 72,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "ambiguous",
+        "max_value": "100",
+        "value": "47"
+      },
+      {
+        "trait_type": "silent",
+        "max_value": "100",
+        "value": "61"
+      },
+      {
+        "trait_type": "fuzzy",
+        "max_value": "100",
+        "value": "61"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "big",
+        "max_value": "100",
+        "value": "81"
+      },
+      {
+        "trait_type": "yellow",
+        "max_value": "100",
+        "value": "1"
+      },
+      {
+        "trait_type": "broken",
+        "max_value": "100",
+        "value": "49"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #73",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/73.png",
+    "imageSHA256": "883a96e63addb9527bfd32d74089ef71dd9d94ac107951793e07f53501355e09",
+    "dna": "7289581a56efb891743c95cc8bb059822ef234206991c90905d545323bcffb77",
+    "edition": 73,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "omniscient",
+        "max_value": "100",
+        "value": "98"
+      },
+      {
+        "trait_type": "flashy",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "homeless",
+        "max_value": "100",
+        "value": "73"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "abject",
+        "max_value": "100",
+        "value": "72"
+      },
+      {
+        "trait_type": "obsequious",
+        "max_value": "100",
+        "value": "90"
+      },
+      {
+        "trait_type": "toothsome",
+        "max_value": "100",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #74",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/74.png",
+    "imageSHA256": "6e57eb4f6d3f0aff9bf3a82b4d2791575ef6ad3245fb09d777567be862063f0f",
+    "dna": "ca33f30322d7e9ccbddb8f978bb9c0c77391726a0457781cc7fb2b52a883715b",
+    "edition": 74,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "scrawny",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "smooth",
+        "max_value": "100",
+        "value": "33"
+      },
+      {
+        "trait_type": "spooky",
+        "max_value": "100",
+        "value": "70"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "racial",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "stereotyped",
+        "max_value": "100",
+        "value": "60"
+      },
+      {
+        "trait_type": "witty",
+        "max_value": "100",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #75",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/75.png",
+    "imageSHA256": "86d2386f0b9d974d2690a56f5ac59f7cce4b1ce7b19e674718a8e2b90ec7e261",
+    "dna": "5e14a9a3b12abb6616099528f5f70c8eca6fdbcc6ca2ff98fa1f1438e38d70f7",
+    "edition": 75,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "aboriginal",
+        "max_value": "100",
+        "value": "11"
+      },
+      {
+        "trait_type": "possessive",
+        "max_value": "100",
+        "value": "50"
+      },
+      {
+        "trait_type": "wrathful",
+        "max_value": "100",
+        "value": "21"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "troubled",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "irate",
+        "max_value": "100",
+        "value": "21"
+      },
+      {
+        "trait_type": "screeching",
+        "max_value": "100",
+        "value": "27"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #76",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/76.png",
+    "imageSHA256": "2f5e6a31006473720a62f73aa85cee8a169a7cc1bf409b7ce58d9138e26e9cc9",
+    "dna": "38ae969af0278db8a07cc26b90e0b22d472e94c76ee591059bcf30def6621301",
+    "edition": 76,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "whimsical",
+        "max_value": "100",
+        "value": "36"
+      },
+      {
+        "trait_type": "hesitant",
+        "max_value": "100",
+        "value": "97"
+      },
+      {
+        "trait_type": "wide-eyed",
+        "max_value": "100",
+        "value": "51"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "irate",
+        "max_value": "100",
+        "value": "78"
+      },
+      {
+        "trait_type": "unusual",
+        "max_value": "100",
+        "value": "31"
+      },
+      {
+        "trait_type": "calm",
+        "max_value": "100",
+        "value": "17"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #77",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/77.png",
+    "imageSHA256": "b8a62c344853fa33559c736de345b9b0bb5fe0d408034f5fec9c8f04fae234c9",
+    "dna": "371f956f34d1641b9944da960ff1bd677c58cc448d9275c7bd5979401ba8c6ee",
+    "edition": 77,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "gentle",
+        "max_value": "100",
+        "value": "15"
+      },
+      {
+        "trait_type": "clean",
+        "max_value": "100",
+        "value": "9"
+      },
+      {
+        "trait_type": "adhesive",
+        "max_value": "100",
+        "value": "3"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "idiotic",
+        "max_value": "100",
+        "value": "86"
+      },
+      {
+        "trait_type": "flipped-out",
+        "max_value": "100",
+        "value": "55"
+      },
+      {
+        "trait_type": "abiding",
+        "max_value": "100",
+        "value": "46"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #78",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/78.png",
+    "imageSHA256": "711062ae2fb0845a4f29f282c6b3053200830e9d8e6b7bddcbe91f5df3c8d509",
+    "dna": "f61d0b6654519a9a6badf4e3024659be96cd7a8b4625854787ccd16f13f27f57",
+    "edition": 78,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "gifted",
+        "max_value": "100",
+        "value": "40"
+      },
+      {
+        "trait_type": "easy",
+        "max_value": "100",
+        "value": "80"
+      },
+      {
+        "trait_type": "dizzy",
+        "max_value": "100",
+        "value": "31"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "used",
+        "max_value": "100",
+        "value": "29"
+      },
+      {
+        "trait_type": "calm",
+        "max_value": "100",
+        "value": "82"
+      },
+      {
+        "trait_type": "educated",
+        "max_value": "100",
+        "value": "63"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #79",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/79.png",
+    "imageSHA256": "66e1dec447d263f414aec1110519f250344ba6790916f34d723334f6c0494455",
+    "dna": "f1251bc518c2989b46fb49b2120d832f066ca296bf915836d853ef842a0c48d0",
+    "edition": 79,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "clear",
+        "max_value": "100",
+        "value": "48"
+      },
+      {
+        "trait_type": "yellow",
+        "max_value": "100",
+        "value": "39"
+      },
+      {
+        "trait_type": "dashing",
+        "max_value": "100",
+        "value": "48"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "cloudy",
+        "max_value": "100",
+        "value": "17"
+      },
+      {
+        "trait_type": "utter",
+        "max_value": "100",
+        "value": "29"
+      },
+      {
+        "trait_type": "rebellious",
+        "max_value": "100",
+        "value": "34"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #80",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/80.png",
+    "imageSHA256": "83283e0230a2749ccf9d69956f4d9a4d033a6db309b37ad1c7a7d22f718248a4",
+    "dna": "c20c3bb27964dde5621716f81233b074fa3a1683693eb10ef15f61f79cd362a4",
+    "edition": 80,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "daily",
+        "max_value": "100",
+        "value": "24"
+      },
+      {
+        "trait_type": "lacking",
+        "max_value": "100",
+        "value": "31"
+      },
+      {
+        "trait_type": "robust",
+        "max_value": "100",
+        "value": "9"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "thankful",
+        "max_value": "100",
+        "value": "5"
+      },
+      {
+        "trait_type": "rural",
+        "max_value": "100",
+        "value": "35"
+      },
+      {
+        "trait_type": "spiffy",
+        "max_value": "100",
+        "value": "32"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #81",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/81.png",
+    "imageSHA256": "857f20fe742305f56e2c52c0d7c22b7819571c90febdb244cc66e5e129ddd0b7",
+    "dna": "3c9594c759bc99d4cc41cc2b014ade93b573faf030c4a58bbf4a2bb65456f3a4",
+    "edition": 81,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "precious",
+        "max_value": "100",
+        "value": "8"
+      },
+      {
+        "trait_type": "beautiful",
+        "max_value": "100",
+        "value": "22"
+      },
+      {
+        "trait_type": "sable",
+        "max_value": "100",
+        "value": "7"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "heavy",
+        "max_value": "100",
+        "value": "44"
+      },
+      {
+        "trait_type": "exclusive",
+        "max_value": "100",
+        "value": "93"
+      },
+      {
+        "trait_type": "icy",
+        "max_value": "100",
+        "value": "59"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #82",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/82.png",
+    "imageSHA256": "9bacb368f2f3ce2b795f15d8dc99a3f8cb34cb927591f39ad60268e600297e81",
+    "dna": "3d48d7c368e47c7bfd2016a99eebe614b4858ff317d3e15bd77a1e0da4ea18c9",
+    "edition": 82,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "madly",
+        "max_value": "100",
+        "value": "73"
+      },
+      {
+        "trait_type": "squealing",
+        "max_value": "100",
+        "value": "16"
+      },
+      {
+        "trait_type": "glib",
+        "max_value": "100",
+        "value": "75"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "innate",
+        "max_value": "100",
+        "value": "24"
+      },
+      {
+        "trait_type": "ripe",
+        "max_value": "100",
+        "value": "89"
+      },
+      {
+        "trait_type": "chivalrous",
+        "max_value": "100",
+        "value": "51"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #83",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/83.png",
+    "imageSHA256": "31faaf046d29e74f97c064013996784d9f153b5df46442697574933c276a7092",
+    "dna": "b4047bc2492c6446ef5dd5da35b7543061e0d5ec2b9dd95c21eeb52f99fe5df0",
+    "edition": 83,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "curious",
+        "max_value": "100",
+        "value": "84"
+      },
+      {
+        "trait_type": "knowing",
+        "max_value": "100",
+        "value": "17"
+      },
+      {
+        "trait_type": "breakable",
+        "max_value": "100",
+        "value": "16"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "overconfident",
+        "max_value": "100",
+        "value": "30"
+      },
+      {
+        "trait_type": "dark",
+        "max_value": "100",
+        "value": "46"
+      },
+      {
+        "trait_type": "nice",
+        "max_value": "100",
+        "value": "70"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #84",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/84.png",
+    "imageSHA256": "63636a94b93208404a80a521496439e799da7b6aa85aeabc46ef928952aae8d0",
+    "dna": "a4a4b6bb84fa887c5e99cc639c404c73e387c4ef6c3f6e5434e1d7e14d9134c2",
+    "edition": 84,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "erect",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "absorbing",
+        "max_value": "100",
+        "value": "99"
+      },
+      {
+        "trait_type": "oval",
+        "max_value": "100",
+        "value": "59"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "empty",
+        "max_value": "100",
+        "value": "12"
+      },
+      {
+        "trait_type": "possessive",
+        "max_value": "100",
+        "value": "52"
+      },
+      {
+        "trait_type": "nervous",
+        "max_value": "100",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #85",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/85.png",
+    "imageSHA256": "f15528d6c72797c6e115c361487ab45c0dc23dc965ec0c5160e41ba89c9f2e7d",
+    "dna": "04b0c1f2034109b091f888bcc947aee06b1514d76fc9960d00dccf5bf8bd5557",
+    "edition": 85,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "onerous",
+        "max_value": "100",
+        "value": "77"
+      },
+      {
+        "trait_type": "harsh",
+        "max_value": "100",
+        "value": "56"
+      },
+      {
+        "trait_type": "huge",
+        "max_value": "100",
+        "value": "93"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "shrill",
+        "max_value": "100",
+        "value": "2"
+      },
+      {
+        "trait_type": "oafish",
+        "max_value": "100",
+        "value": "92"
+      },
+      {
+        "trait_type": "rare",
+        "max_value": "100",
+        "value": "72"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #86",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/86.png",
+    "imageSHA256": "77dae35d665180e6e8766719ccc96defb558ffe61b3cd978c1200c8ab923b95b",
+    "dna": "a032cdeca44c3776ddcb90a8427f4ee2a31ccb36c96fb3ce1f42608c5adf7a5f",
+    "edition": 86,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "lazy",
+        "max_value": "100",
+        "value": "53"
+      },
+      {
+        "trait_type": "mighty",
+        "max_value": "100",
+        "value": "61"
+      },
+      {
+        "trait_type": "psychedelic",
+        "max_value": "100",
+        "value": "55"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "garrulous",
+        "max_value": "100",
+        "value": "13"
+      },
+      {
+        "trait_type": "great",
+        "max_value": "100",
+        "value": "91"
+      },
+      {
+        "trait_type": "righteous",
+        "max_value": "100",
+        "value": "43"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #87",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/87.png",
+    "imageSHA256": "05aecbc592e7ccf698c6cb35608adfe3639434ae6b0ad6df8ddd1bf217ca79b6",
+    "dna": "52ec46ccdcf427da32d35454aaaf4de7d04ccdd464c505ffc40c112d2daf3173",
+    "edition": 87,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "deeply",
+        "max_value": "100",
+        "value": "80"
+      },
+      {
+        "trait_type": "stormy",
+        "max_value": "100",
+        "value": "23"
+      },
+      {
+        "trait_type": "overconfident",
+        "max_value": "100",
+        "value": "73"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "dapper",
+        "max_value": "100",
+        "value": "27"
+      },
+      {
+        "trait_type": "sore",
+        "max_value": "100",
+        "value": "58"
+      },
+      {
+        "trait_type": "aback",
+        "max_value": "100",
+        "value": "91"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #88",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/88.png",
+    "imageSHA256": "73d8dd16a194c003488dc35082d49e9162b9808019096b9b6483c5623cfe1838",
+    "dna": "31144d1dd4107561be14e4780a19d85a112f1052b0b222e02210785ee5e24480",
+    "edition": 88,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm5"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "condemned",
+        "max_value": "100",
+        "value": "7"
+      },
+      {
+        "trait_type": "decorous",
+        "max_value": "100",
+        "value": "34"
+      },
+      {
+        "trait_type": "unequaled",
+        "max_value": "100",
+        "value": "5"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "confused",
+        "max_value": "100",
+        "value": "21"
+      },
+      {
+        "trait_type": "deadpan",
+        "max_value": "100",
+        "value": "79"
+      },
+      {
+        "trait_type": "unadvised",
+        "max_value": "100",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #89",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/89.png",
+    "imageSHA256": "e06819a926f7e5df389e964e3cc693d31214b556c5263193ebb6f21ce8161e85",
+    "dna": "10f3a985d97810a8ce656e7f651e23e673be6e1a73837e822efa2d204b81efe8",
+    "edition": 89,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "miscreant",
+        "max_value": "100",
+        "value": "45"
+      },
+      {
+        "trait_type": "worthless",
+        "max_value": "100",
+        "value": "50"
+      },
+      {
+        "trait_type": "capable",
+        "max_value": "100",
+        "value": "13"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "swift",
+        "max_value": "100",
+        "value": "44"
+      },
+      {
+        "trait_type": "hurried",
+        "max_value": "100",
+        "value": "46"
+      },
+      {
+        "trait_type": "weak",
+        "max_value": "100",
+        "value": "15"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #90",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/90.png",
+    "imageSHA256": "40e61e1cc53ac139b0fba79cd8f293ff3aae23b0e89edd3af52c3c57136b54f6",
+    "dna": "cc3282d305c622cb322ee059dd7ea85068838cdcd8a791f887e944d09405411b",
+    "edition": 90,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm3"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "evasive",
+        "max_value": "100",
+        "value": "35"
+      },
+      {
+        "trait_type": "learned",
+        "max_value": "100",
+        "value": "14"
+      },
+      {
+        "trait_type": "zealous",
+        "max_value": "100",
+        "value": "62"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "credible",
+        "max_value": "100",
+        "value": "49"
+      },
+      {
+        "trait_type": "nosy",
+        "max_value": "100",
+        "value": "85"
+      },
+      {
+        "trait_type": "bashful",
+        "max_value": "100",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #91",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/91.png",
+    "imageSHA256": "36c1384a0e431edc6f823c1809ee427792ae1530c0e97b7bf2609d2bf277b129",
+    "dna": "4bbcc447a03a6c0e32e0e5bfb49dcaaf4dca675abebbde4f7397871aac3c943b",
+    "edition": 91,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "half",
+        "max_value": "100",
+        "value": "46"
+      },
+      {
+        "trait_type": "youthful",
+        "max_value": "100",
+        "value": "30"
+      },
+      {
+        "trait_type": "jolly",
+        "max_value": "100",
+        "value": "24"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "divergent",
+        "max_value": "100",
+        "value": "19"
+      },
+      {
+        "trait_type": "scandalous",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "prickly",
+        "max_value": "100",
+        "value": "82"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #92",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/92.png",
+    "imageSHA256": "fbb6dd3e5cd8f8f7096351056ca651aeb2af721a729d95e8844b7e217812bdb3",
+    "dna": "a4165f4164e59538eb5873450fc5afe0c27edba21f35a59de1bd71470ba7f18a",
+    "edition": 92,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "depressed",
+        "max_value": "100",
+        "value": "96"
+      },
+      {
+        "trait_type": "whispering",
+        "max_value": "100",
+        "value": "59"
+      },
+      {
+        "trait_type": "concerned",
+        "max_value": "100",
+        "value": "22"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "imported",
+        "max_value": "100",
+        "value": "83"
+      },
+      {
+        "trait_type": "magnificent",
+        "max_value": "100",
+        "value": "79"
+      },
+      {
+        "trait_type": "curved",
+        "max_value": "100",
+        "value": "71"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #93",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/93.png",
+    "imageSHA256": "5f3d119b38d71905fb71131e320dd0bc0c3ed4cdbcef733f8c1757fb69d1761e",
+    "dna": "9ffb983df7a1a8a9b9438e5eaf392122496b24f9a1a7f69269944bc683c42ddd",
+    "edition": 93,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "condemned",
+        "max_value": "100",
+        "value": "39"
+      },
+      {
+        "trait_type": "exclusive",
+        "max_value": "100",
+        "value": "8"
+      },
+      {
+        "trait_type": "green",
+        "max_value": "100",
+        "value": "34"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "large",
+        "max_value": "100",
+        "value": "98"
+      },
+      {
+        "trait_type": "testy",
+        "max_value": "100",
+        "value": "30"
+      },
+      {
+        "trait_type": "accidental",
+        "max_value": "100",
+        "value": "62"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #94",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/94.png",
+    "imageSHA256": "c53555b30b0ac0ffb16efb81033796a487b6dab1232e9899b5c1d01e899ab426",
+    "dna": "95da95aa2eeef42d72c19916639c1474615e9282830148860966fe73bafdae97",
+    "edition": 94,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "wild",
+        "max_value": "100",
+        "value": "45"
+      },
+      {
+        "trait_type": "lively",
+        "max_value": "100",
+        "value": "81"
+      },
+      {
+        "trait_type": "annoying",
+        "max_value": "100",
+        "value": "97"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "murky",
+        "max_value": "100",
+        "value": "15"
+      },
+      {
+        "trait_type": "prickly",
+        "max_value": "100",
+        "value": "93"
+      },
+      {
+        "trait_type": "dizzy",
+        "max_value": "100",
+        "value": "81"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #95",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/95.png",
+    "imageSHA256": "d41db02b0e1306caa96897c145ab40674f6fca61a289cde3cea9bcd3946fa5df",
+    "dna": "2633cb90c0261d54d5eed3569450b34ff98619476fa7c8b20940f834f49ec034",
+    "edition": 95,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm6"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "inquisitive",
+        "max_value": "100",
+        "value": "62"
+      },
+      {
+        "trait_type": "lying",
+        "max_value": "100",
+        "value": "14"
+      },
+      {
+        "trait_type": "frantic",
+        "max_value": "100",
+        "value": "74"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "needless",
+        "max_value": "100",
+        "value": "8"
+      },
+      {
+        "trait_type": "rapid",
+        "max_value": "100",
+        "value": "37"
+      },
+      {
+        "trait_type": "filthy",
+        "max_value": "100",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #96",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/96.png",
+    "imageSHA256": "9127ad0f63bc3ca100c0bbaa1f0de97d55ef446af00c3f85e403e2e568b2d20b",
+    "dna": "eda7bc02f231ea6bb7b181439f33c93aff3a8c71d81fc0fd89fd0a45484309c6",
+    "edition": 96,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm2"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "fortunate",
+        "max_value": "100",
+        "value": "12"
+      },
+      {
+        "trait_type": "hapless",
+        "max_value": "100",
+        "value": "20"
+      },
+      {
+        "trait_type": "adjoining",
+        "max_value": "100",
+        "value": "28"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "tight",
+        "max_value": "100",
+        "value": "84"
+      },
+      {
+        "trait_type": "ordinary",
+        "max_value": "100",
+        "value": "5"
+      },
+      {
+        "trait_type": "disgusted",
+        "max_value": "100",
+        "value": "57"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #97",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/97.png",
+    "imageSHA256": "1738b7487c6bfc8a42bc829408eadf0826e95e5d46e1536c12c6894cd0564295",
+    "dna": "fde45ad9a2cacd478a3687b09d29b40c4130396a2b4a8a1ad66437bd0ca55e16",
+    "edition": 97,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm1"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "handsome",
+        "max_value": "100",
+        "value": "24"
+      },
+      {
+        "trait_type": "groovy",
+        "max_value": "100",
+        "value": "68"
+      },
+      {
+        "trait_type": "odd",
+        "max_value": "100",
+        "value": "29"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "tough",
+        "max_value": "100",
+        "value": "82"
+      },
+      {
+        "trait_type": "daffy",
+        "max_value": "100",
+        "value": "45"
+      },
+      {
+        "trait_type": "efficient",
+        "max_value": "100",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #98",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/98.png",
+    "imageSHA256": "b40b62cc21650567a8faef6b708d3787f1b2438f6cf7eb5cb339b362e0c03a8c",
+    "dna": "94db439f3cbf547e2b3a611628dc49447a46c2b5f6b2b4bb383b86c12e7cbfc9",
+    "edition": 98,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "grubby",
+        "max_value": "100",
+        "value": "86"
+      },
+      {
+        "trait_type": "harmonious",
+        "max_value": "100",
+        "value": "98"
+      },
+      {
+        "trait_type": "disillusioned",
+        "max_value": "100",
+        "value": "57"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "alcoholic",
+        "max_value": "100",
+        "value": "46"
+      },
+      {
+        "trait_type": "deafening",
+        "max_value": "100",
+        "value": "5"
+      },
+      {
+        "trait_type": "lacking",
+        "max_value": "100",
+        "value": "23"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #99",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/99.png",
+    "imageSHA256": "ba564c1d7d98cdc776693d85f5682c843b09ea6509585fa072ce387e24114a2b",
+    "dna": "9a1f656145bf85ae2b0b89da28dfb94ccb0817e4c4ae5c7f6783dc9243c63bdb",
+    "edition": 99,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm7"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "round",
+        "max_value": "100",
+        "value": "62"
+      },
+      {
+        "trait_type": "joyous",
+        "max_value": "100",
+        "value": "76"
+      },
+      {
+        "trait_type": "malicious",
+        "max_value": "100",
+        "value": "20"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "abaft",
+        "max_value": "100",
+        "value": "95"
+      },
+      {
+        "trait_type": "charming",
+        "max_value": "100",
+        "value": "22"
+      },
+      {
+        "trait_type": "accurate",
+        "max_value": "100",
+        "value": "98"
+      }
+    ]
+  },
+  {
+    "name": "Ergo Eyeballs Complex 100 Test #100",
+    "description": "This is part of a 100 NFT test",
+    "image": "ipfs://bafybeieftkqfcwnnp2l7dzawpypu4ssrhtezeczcz3lgz2u5hm4ajtfo2m/100.png",
+    "imageSHA256": "44246832b517698ef1efc000c31ca7a49de9fcfd6e32c6fc134b96dfac4801b3",
+    "dna": "9eb7f4d66dee1dfd83dc670d376a5684fd061ae3740c528bd893829a1ddd9ddb",
+    "edition": 100,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Goo",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Watermark",
+        "value": "wm4"
+      }
+    ],
+    "levels": [
+      {
+        "trait_type": "tacky",
+        "max_value": "100",
+        "value": "81"
+      },
+      {
+        "trait_type": "chivalrous",
+        "max_value": "100",
+        "value": "6"
+      },
+      {
+        "trait_type": "mammoth",
+        "max_value": "100",
+        "value": "2"
+      }
+    ],
+    "stats": [
+      {
+        "trait_type": "confused",
+        "max_value": "100",
+        "value": "31"
+      },
+      {
+        "trait_type": "beautiful",
+        "max_value": "100",
+        "value": "46"
+      },
+      {
+        "trait_type": "alive",
+        "max_value": "100",
+        "value": "78"
+      }
+    ]
+  }
+]
