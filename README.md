@@ -6,11 +6,13 @@ This will be a guide for working with Lilium!
 
 ## Getting Started
 
+Vist the [site](https://www.liliumergo.io)
+
 - Connect your wallet!
     - The wallet connected will be your artist address
     - All market places will show the artwork comes from this address
     
-- Navigate to [create collection](https://liliium-fe.vercel.app/create-collection)
+    - Navigate to [create collection](https://www.liliumergo.io/create-collection)
     - Required Fields
         - Collection Name
         - Collection Description
@@ -98,7 +100,7 @@ Check out [examples](/metadata-examples)
 
 ## Minting/Buying NFT
 
-- From Lilium home page, naviage to [`Mint NFT`](https://liliium-fe.vercel.app/pay)
+- From Lilium home page, naviage to [`Mint NFT`](https://www.liliumergo.io/pay)
     - Connect Wallet
     - Proxy Address is the same for all collections currently, this cannot be modified
     - Singleton ID
