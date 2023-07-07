@@ -69,7 +69,9 @@
         "max_value": "100",
         "value": "75"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #2",
@@ -141,7 +143,9 @@
         "max_value": "100",
         "value": "13"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #3",
@@ -213,7 +217,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #4",
@@ -285,7 +291,9 @@
         "max_value": "100",
         "value": "57"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #5",
@@ -357,7 +365,9 @@
         "max_value": "100",
         "value": "87"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #6",
@@ -429,7 +439,9 @@
         "max_value": "100",
         "value": "12"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #7",
@@ -501,7 +513,9 @@
         "max_value": "100",
         "value": "55"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #8",
@@ -573,7 +587,9 @@
         "max_value": "100",
         "value": "4"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #9",
@@ -645,7 +661,9 @@
         "max_value": "100",
         "value": "74"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #10",
@@ -717,7 +735,9 @@
         "max_value": "100",
         "value": "68"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #11",
@@ -789,7 +809,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #12",
@@ -861,7 +883,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #13",
@@ -933,7 +957,9 @@
         "max_value": "100",
         "value": "84"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #14",
@@ -1005,7 +1031,9 @@
         "max_value": "100",
         "value": "58"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #15",
@@ -1077,7 +1105,9 @@
         "max_value": "100",
         "value": "80"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #16",
@@ -1149,7 +1179,9 @@
         "max_value": "100",
         "value": "3"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #17",
@@ -1221,7 +1253,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #18",
@@ -1293,7 +1327,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #19",
@@ -1365,7 +1401,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #20",
@@ -1437,7 +1475,9 @@
         "max_value": "100",
         "value": "56"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #21",
@@ -1509,7 +1549,9 @@
         "max_value": "100",
         "value": "60"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #22",
@@ -1581,7 +1623,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #23",
@@ -1653,7 +1697,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #24",
@@ -1725,7 +1771,9 @@
         "max_value": "100",
         "value": "12"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #25",
@@ -1797,7 +1845,9 @@
         "max_value": "100",
         "value": "17"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #26",
@@ -1869,7 +1919,9 @@
         "max_value": "100",
         "value": "41"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #27",
@@ -1941,7 +1993,9 @@
         "max_value": "100",
         "value": "34"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #28",
@@ -2013,7 +2067,9 @@
         "max_value": "100",
         "value": "53"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #29",
@@ -2085,7 +2141,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #30",
@@ -2157,7 +2215,9 @@
         "max_value": "100",
         "value": "32"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #31",
@@ -2229,7 +2289,9 @@
         "max_value": "100",
         "value": "44"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #32",
@@ -2301,7 +2363,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #33",
@@ -2373,7 +2437,9 @@
         "max_value": "100",
         "value": "71"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #34",
@@ -2445,7 +2511,9 @@
         "max_value": "100",
         "value": "65"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #35",
@@ -2517,7 +2585,9 @@
         "max_value": "100",
         "value": "1"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #36",
@@ -2589,7 +2659,9 @@
         "max_value": "100",
         "value": "31"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #37",
@@ -2661,7 +2733,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #38",
@@ -2733,7 +2807,9 @@
         "max_value": "100",
         "value": "56"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #39",
@@ -2805,7 +2881,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #40",
@@ -2877,7 +2955,9 @@
         "max_value": "100",
         "value": "39"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #41",
@@ -2949,7 +3029,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #42",
@@ -3021,7 +3103,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #43",
@@ -3093,7 +3177,9 @@
         "max_value": "100",
         "value": "26"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #44",
@@ -3165,7 +3251,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #45",
@@ -3237,7 +3325,9 @@
         "max_value": "100",
         "value": "10"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #46",
@@ -3309,7 +3399,9 @@
         "max_value": "100",
         "value": "84"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #47",
@@ -3381,7 +3473,9 @@
         "max_value": "100",
         "value": "100"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #48",
@@ -3453,7 +3547,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #49",
@@ -3525,7 +3621,9 @@
         "max_value": "100",
         "value": "51"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #50",
@@ -3597,7 +3695,9 @@
         "max_value": "100",
         "value": "13"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #51",
@@ -3669,7 +3769,9 @@
         "max_value": "100",
         "value": "97"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #52",
@@ -3741,7 +3843,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #53",
@@ -3813,7 +3917,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #54",
@@ -3885,7 +3991,9 @@
         "max_value": "100",
         "value": "77"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #55",
@@ -3957,7 +4065,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #56",
@@ -4029,7 +4139,9 @@
         "max_value": "100",
         "value": "78"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #57",
@@ -4101,7 +4213,9 @@
         "max_value": "100",
         "value": "80"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #58",
@@ -4173,7 +4287,9 @@
         "max_value": "100",
         "value": "17"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #59",
@@ -4245,7 +4361,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #60",
@@ -4317,7 +4435,9 @@
         "max_value": "100",
         "value": "52"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #61",
@@ -4389,7 +4509,9 @@
         "max_value": "100",
         "value": "48"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #62",
@@ -4461,7 +4583,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #63",
@@ -4533,7 +4657,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #64",
@@ -4605,7 +4731,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #65",
@@ -4677,7 +4805,9 @@
         "max_value": "100",
         "value": "84"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #66",
@@ -4749,7 +4879,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #67",
@@ -4821,7 +4953,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #68",
@@ -4893,7 +5027,9 @@
         "max_value": "100",
         "value": "43"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #69",
@@ -4965,7 +5101,9 @@
         "max_value": "100",
         "value": "6"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #70",
@@ -5037,7 +5175,9 @@
         "max_value": "100",
         "value": "24"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #71",
@@ -5109,7 +5249,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #72",
@@ -5181,7 +5323,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #73",
@@ -5253,7 +5397,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #74",
@@ -5325,7 +5471,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #75",
@@ -5397,7 +5545,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #76",
@@ -5469,7 +5619,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #77",
@@ -5541,7 +5693,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #78",
@@ -5613,7 +5767,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #79",
@@ -5685,7 +5841,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #80",
@@ -5757,7 +5915,9 @@
         "max_value": "100",
         "value": "12"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #81",
@@ -5829,7 +5989,9 @@
         "max_value": "100",
         "value": "82"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #82",
@@ -5901,7 +6063,9 @@
         "max_value": "100",
         "value": "30"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #83",
@@ -5973,7 +6137,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #84",
@@ -6045,7 +6211,9 @@
         "max_value": "100",
         "value": "52"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #85",
@@ -6117,7 +6285,9 @@
         "max_value": "100",
         "value": "95"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #86",
@@ -6189,7 +6359,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #87",
@@ -6261,7 +6433,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #88",
@@ -6333,7 +6507,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #89",
@@ -6405,7 +6581,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #90",
@@ -6477,7 +6655,9 @@
         "max_value": "100",
         "value": "99"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #91",
@@ -6549,7 +6729,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #92",
@@ -6621,7 +6803,9 @@
         "max_value": "100",
         "value": "89"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #93",
@@ -6693,7 +6877,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #94",
@@ -6765,7 +6951,9 @@
         "max_value": "100",
         "value": "95"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #95",
@@ -6837,7 +7025,9 @@
         "max_value": "100",
         "value": "51"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #96",
@@ -6909,7 +7099,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #97",
@@ -6981,7 +7173,9 @@
         "max_value": "100",
         "value": "44"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #98",
@@ -7053,7 +7247,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #99",
@@ -7125,7 +7321,9 @@
         "max_value": "100",
         "value": "6"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #100",
@@ -7197,7 +7395,9 @@
         "max_value": "100",
         "value": "15"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #101",
@@ -7269,7 +7469,9 @@
         "max_value": "100",
         "value": "10"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #102",
@@ -7341,7 +7543,9 @@
         "max_value": "100",
         "value": "10"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #103",
@@ -7413,7 +7617,9 @@
         "max_value": "100",
         "value": "70"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #104",
@@ -7485,7 +7691,9 @@
         "max_value": "100",
         "value": "70"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #105",
@@ -7557,7 +7765,9 @@
         "max_value": "100",
         "value": "48"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #106",
@@ -7629,7 +7839,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #107",
@@ -7701,7 +7913,9 @@
         "max_value": "100",
         "value": "94"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #108",
@@ -7773,7 +7987,9 @@
         "max_value": "100",
         "value": "26"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #109",
@@ -7845,7 +8061,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #110",
@@ -7917,7 +8135,9 @@
         "max_value": "100",
         "value": "83"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #111",
@@ -7989,7 +8209,9 @@
         "max_value": "100",
         "value": "24"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #112",
@@ -8061,7 +8283,9 @@
         "max_value": "100",
         "value": "65"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #113",
@@ -8133,7 +8357,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #114",
@@ -8205,7 +8431,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #115",
@@ -8277,7 +8505,9 @@
         "max_value": "100",
         "value": "31"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #116",
@@ -8349,7 +8579,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #117",
@@ -8421,7 +8653,9 @@
         "max_value": "100",
         "value": "27"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #118",
@@ -8493,7 +8727,9 @@
         "max_value": "100",
         "value": "75"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #119",
@@ -8565,7 +8801,9 @@
         "max_value": "100",
         "value": "26"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #120",
@@ -8637,7 +8875,9 @@
         "max_value": "100",
         "value": "92"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #121",
@@ -8709,7 +8949,9 @@
         "max_value": "100",
         "value": "39"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #122",
@@ -8781,7 +9023,9 @@
         "max_value": "100",
         "value": "12"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #123",
@@ -8853,7 +9097,9 @@
         "max_value": "100",
         "value": "8"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #124",
@@ -8925,7 +9171,9 @@
         "max_value": "100",
         "value": "1"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #125",
@@ -8997,7 +9245,9 @@
         "max_value": "100",
         "value": "51"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #126",
@@ -9069,7 +9319,9 @@
         "max_value": "100",
         "value": "87"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #127",
@@ -9141,7 +9393,9 @@
         "max_value": "100",
         "value": "1"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #128",
@@ -9213,7 +9467,9 @@
         "max_value": "100",
         "value": "71"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #129",
@@ -9285,7 +9541,9 @@
         "max_value": "100",
         "value": "59"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #130",
@@ -9357,7 +9615,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #131",
@@ -9429,7 +9689,9 @@
         "max_value": "100",
         "value": "27"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #132",
@@ -9501,7 +9763,9 @@
         "max_value": "100",
         "value": "83"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #133",
@@ -9573,7 +9837,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #134",
@@ -9645,7 +9911,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #135",
@@ -9717,7 +9985,9 @@
         "max_value": "100",
         "value": "99"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #136",
@@ -9789,7 +10059,9 @@
         "max_value": "100",
         "value": "86"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #137",
@@ -9861,7 +10133,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #138",
@@ -9933,7 +10207,9 @@
         "max_value": "100",
         "value": "74"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #139",
@@ -10005,7 +10281,9 @@
         "max_value": "100",
         "value": "80"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #140",
@@ -10077,7 +10355,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #141",
@@ -10149,7 +10429,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #142",
@@ -10221,7 +10503,9 @@
         "max_value": "100",
         "value": "9"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #143",
@@ -10293,7 +10577,9 @@
         "max_value": "100",
         "value": "71"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #144",
@@ -10365,7 +10651,9 @@
         "max_value": "100",
         "value": "65"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #145",
@@ -10437,7 +10725,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #146",
@@ -10509,7 +10799,9 @@
         "max_value": "100",
         "value": "99"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #147",
@@ -10581,7 +10873,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #148",
@@ -10653,7 +10947,9 @@
         "max_value": "100",
         "value": "57"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #149",
@@ -10725,7 +11021,9 @@
         "max_value": "100",
         "value": "17"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #150",
@@ -10797,7 +11095,9 @@
         "max_value": "100",
         "value": "77"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #151",
@@ -10869,7 +11169,9 @@
         "max_value": "100",
         "value": "30"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #152",
@@ -10941,7 +11243,9 @@
         "max_value": "100",
         "value": "76"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #153",
@@ -11013,7 +11317,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #154",
@@ -11085,7 +11391,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #155",
@@ -11157,7 +11465,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #156",
@@ -11229,7 +11539,9 @@
         "max_value": "100",
         "value": "77"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #157",
@@ -11301,7 +11613,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #158",
@@ -11373,7 +11687,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #159",
@@ -11445,7 +11761,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #160",
@@ -11517,7 +11835,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #161",
@@ -11589,7 +11909,9 @@
         "max_value": "100",
         "value": "60"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #162",
@@ -11661,7 +11983,9 @@
         "max_value": "100",
         "value": "15"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #163",
@@ -11733,7 +12057,9 @@
         "max_value": "100",
         "value": "31"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #164",
@@ -11805,7 +12131,9 @@
         "max_value": "100",
         "value": "89"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #165",
@@ -11877,7 +12205,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #166",
@@ -11949,7 +12279,9 @@
         "max_value": "100",
         "value": "86"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #167",
@@ -12021,7 +12353,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #168",
@@ -12093,7 +12427,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #169",
@@ -12165,7 +12501,9 @@
         "max_value": "100",
         "value": "74"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #170",
@@ -12237,7 +12575,9 @@
         "max_value": "100",
         "value": "58"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #171",
@@ -12309,7 +12649,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #172",
@@ -12381,7 +12723,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #173",
@@ -12453,7 +12797,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #174",
@@ -12525,7 +12871,9 @@
         "max_value": "100",
         "value": "60"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #175",
@@ -12597,7 +12945,9 @@
         "max_value": "100",
         "value": "9"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #176",
@@ -12669,7 +13019,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #177",
@@ -12741,7 +13093,9 @@
         "max_value": "100",
         "value": "12"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #178",
@@ -12813,7 +13167,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #179",
@@ -12885,7 +13241,9 @@
         "max_value": "100",
         "value": "59"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #180",
@@ -12957,7 +13315,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #181",
@@ -13029,7 +13389,9 @@
         "max_value": "100",
         "value": "59"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #182",
@@ -13101,7 +13463,9 @@
         "max_value": "100",
         "value": "94"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #183",
@@ -13173,7 +13537,9 @@
         "max_value": "100",
         "value": "29"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #184",
@@ -13245,7 +13611,9 @@
         "max_value": "100",
         "value": "31"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #185",
@@ -13317,7 +13685,9 @@
         "max_value": "100",
         "value": "95"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #186",
@@ -13389,7 +13759,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #187",
@@ -13461,7 +13833,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #188",
@@ -13533,7 +13907,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #189",
@@ -13605,7 +13981,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #190",
@@ -13677,7 +14055,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #191",
@@ -13749,7 +14129,9 @@
         "max_value": "100",
         "value": "87"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #192",
@@ -13821,7 +14203,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #193",
@@ -13893,7 +14277,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #194",
@@ -13965,7 +14351,9 @@
         "max_value": "100",
         "value": "57"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #195",
@@ -14037,7 +14425,9 @@
         "max_value": "100",
         "value": "42"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #196",
@@ -14109,7 +14499,9 @@
         "max_value": "100",
         "value": "49"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #197",
@@ -14181,7 +14573,9 @@
         "max_value": "100",
         "value": "60"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #198",
@@ -14253,7 +14647,9 @@
         "max_value": "100",
         "value": "68"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #199",
@@ -14325,7 +14721,9 @@
         "max_value": "100",
         "value": "58"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #200",
@@ -14397,7 +14795,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #201",
@@ -14469,7 +14869,9 @@
         "max_value": "100",
         "value": "67"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #202",
@@ -14541,7 +14943,9 @@
         "max_value": "100",
         "value": "11"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #203",
@@ -14613,7 +15017,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #204",
@@ -14685,7 +15091,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #205",
@@ -14757,7 +15165,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #206",
@@ -14829,7 +15239,9 @@
         "max_value": "100",
         "value": "53"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #207",
@@ -14901,7 +15313,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #208",
@@ -14973,7 +15387,9 @@
         "max_value": "100",
         "value": "60"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #209",
@@ -15045,7 +15461,9 @@
         "max_value": "100",
         "value": "17"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #210",
@@ -15117,7 +15535,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #211",
@@ -15189,7 +15609,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #212",
@@ -15261,7 +15683,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #213",
@@ -15333,7 +15757,9 @@
         "max_value": "100",
         "value": "30"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #214",
@@ -15405,7 +15831,9 @@
         "max_value": "100",
         "value": "18"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #215",
@@ -15477,7 +15905,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #216",
@@ -15549,7 +15979,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #217",
@@ -15621,7 +16053,9 @@
         "max_value": "100",
         "value": "37"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #218",
@@ -15693,7 +16127,9 @@
         "max_value": "100",
         "value": "49"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #219",
@@ -15765,7 +16201,9 @@
         "max_value": "100",
         "value": "15"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #220",
@@ -15837,7 +16275,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #221",
@@ -15909,7 +16349,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #222",
@@ -15981,7 +16423,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #223",
@@ -16053,7 +16497,9 @@
         "max_value": "100",
         "value": "67"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #224",
@@ -16125,7 +16571,9 @@
         "max_value": "100",
         "value": "84"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #225",
@@ -16197,7 +16645,9 @@
         "max_value": "100",
         "value": "21"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #226",
@@ -16269,7 +16719,9 @@
         "max_value": "100",
         "value": "32"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #227",
@@ -16341,7 +16793,9 @@
         "max_value": "100",
         "value": "38"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #228",
@@ -16413,7 +16867,9 @@
         "max_value": "100",
         "value": "94"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #229",
@@ -16485,7 +16941,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #230",
@@ -16557,7 +17015,9 @@
         "max_value": "100",
         "value": "9"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #231",
@@ -16629,7 +17089,9 @@
         "max_value": "100",
         "value": "99"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #232",
@@ -16701,7 +17163,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #233",
@@ -16773,7 +17237,9 @@
         "max_value": "100",
         "value": "30"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #234",
@@ -16845,7 +17311,9 @@
         "max_value": "100",
         "value": "71"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #235",
@@ -16917,7 +17385,9 @@
         "max_value": "100",
         "value": "8"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #236",
@@ -16989,7 +17459,9 @@
         "max_value": "100",
         "value": "49"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #237",
@@ -17061,7 +17533,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #238",
@@ -17133,7 +17607,9 @@
         "max_value": "100",
         "value": "38"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #239",
@@ -17205,7 +17681,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #240",
@@ -17277,7 +17755,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #241",
@@ -17349,7 +17829,9 @@
         "max_value": "100",
         "value": "57"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #242",
@@ -17421,7 +17903,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #243",
@@ -17493,7 +17977,9 @@
         "max_value": "100",
         "value": "41"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #244",
@@ -17565,7 +18051,9 @@
         "max_value": "100",
         "value": "82"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #245",
@@ -17637,7 +18125,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #246",
@@ -17709,7 +18199,9 @@
         "max_value": "100",
         "value": "97"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #247",
@@ -17781,7 +18273,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #248",
@@ -17853,7 +18347,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #249",
@@ -17925,7 +18421,9 @@
         "max_value": "100",
         "value": "82"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #250",
@@ -17997,7 +18495,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #251",
@@ -18069,7 +18569,9 @@
         "max_value": "100",
         "value": "94"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #252",
@@ -18141,7 +18643,9 @@
         "max_value": "100",
         "value": "62"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #253",
@@ -18213,7 +18717,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #254",
@@ -18285,7 +18791,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #255",
@@ -18357,7 +18865,9 @@
         "max_value": "100",
         "value": "73"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #256",
@@ -18429,7 +18939,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #257",
@@ -18501,7 +19013,9 @@
         "max_value": "100",
         "value": "55"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #258",
@@ -18573,7 +19087,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #259",
@@ -18645,7 +19161,9 @@
         "max_value": "100",
         "value": "70"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #260",
@@ -18717,7 +19235,9 @@
         "max_value": "100",
         "value": "66"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #261",
@@ -18789,7 +19309,9 @@
         "max_value": "100",
         "value": "37"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #262",
@@ -18861,7 +19383,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #263",
@@ -18933,7 +19457,9 @@
         "max_value": "100",
         "value": "86"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #264",
@@ -19005,7 +19531,9 @@
         "max_value": "100",
         "value": "89"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #265",
@@ -19077,7 +19605,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #266",
@@ -19149,7 +19679,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #267",
@@ -19221,7 +19753,9 @@
         "max_value": "100",
         "value": "9"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #268",
@@ -19293,7 +19827,9 @@
         "max_value": "100",
         "value": "79"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #269",
@@ -19365,7 +19901,9 @@
         "max_value": "100",
         "value": "83"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #270",
@@ -19437,7 +19975,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #271",
@@ -19509,7 +20049,9 @@
         "max_value": "100",
         "value": "4"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #272",
@@ -19581,7 +20123,9 @@
         "max_value": "100",
         "value": "76"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #273",
@@ -19653,7 +20197,9 @@
         "max_value": "100",
         "value": "15"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #274",
@@ -19725,7 +20271,9 @@
         "max_value": "100",
         "value": "52"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #275",
@@ -19797,7 +20345,9 @@
         "max_value": "100",
         "value": "32"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #276",
@@ -19869,7 +20419,9 @@
         "max_value": "100",
         "value": "68"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #277",
@@ -19941,7 +20493,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #278",
@@ -20013,7 +20567,9 @@
         "max_value": "100",
         "value": "53"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #279",
@@ -20085,7 +20641,9 @@
         "max_value": "100",
         "value": "48"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #280",
@@ -20157,7 +20715,9 @@
         "max_value": "100",
         "value": "7"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #281",
@@ -20229,7 +20789,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #282",
@@ -20301,7 +20863,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #283",
@@ -20373,7 +20937,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #284",
@@ -20445,7 +21011,9 @@
         "max_value": "100",
         "value": "37"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #285",
@@ -20517,7 +21085,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #286",
@@ -20589,7 +21159,9 @@
         "max_value": "100",
         "value": "60"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #287",
@@ -20661,7 +21233,9 @@
         "max_value": "100",
         "value": "20"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #288",
@@ -20733,7 +21307,9 @@
         "max_value": "100",
         "value": "84"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #289",
@@ -20805,7 +21381,9 @@
         "max_value": "100",
         "value": "42"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #290",
@@ -20877,7 +21455,9 @@
         "max_value": "100",
         "value": "93"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #291",
@@ -20949,7 +21529,9 @@
         "max_value": "100",
         "value": "34"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #292",
@@ -21021,7 +21603,9 @@
         "max_value": "100",
         "value": "68"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #293",
@@ -21093,7 +21677,9 @@
         "max_value": "100",
         "value": "1"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #294",
@@ -21165,7 +21751,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #295",
@@ -21237,7 +21825,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #296",
@@ -21309,7 +21899,9 @@
         "max_value": "100",
         "value": "38"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #297",
@@ -21381,7 +21973,9 @@
         "max_value": "100",
         "value": "5"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #298",
@@ -21453,7 +22047,9 @@
         "max_value": "100",
         "value": "34"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #299",
@@ -21525,7 +22121,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #300",
@@ -21597,7 +22195,9 @@
         "max_value": "100",
         "value": "25"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #301",
@@ -21669,7 +22269,9 @@
         "max_value": "100",
         "value": "41"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #302",
@@ -21741,7 +22343,9 @@
         "max_value": "100",
         "value": "6"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #303",
@@ -21813,7 +22417,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #304",
@@ -21885,7 +22491,9 @@
         "max_value": "100",
         "value": "95"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #305",
@@ -21957,7 +22565,9 @@
         "max_value": "100",
         "value": "21"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #306",
@@ -22029,7 +22639,9 @@
         "max_value": "100",
         "value": "74"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #307",
@@ -22101,7 +22713,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #308",
@@ -22173,7 +22787,9 @@
         "max_value": "100",
         "value": "27"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #309",
@@ -22245,7 +22861,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #310",
@@ -22317,7 +22935,9 @@
         "max_value": "100",
         "value": "94"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #311",
@@ -22389,7 +23009,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #312",
@@ -22461,7 +23083,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #313",
@@ -22533,7 +23157,9 @@
         "max_value": "100",
         "value": "56"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #314",
@@ -22605,7 +23231,9 @@
         "max_value": "100",
         "value": "29"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #315",
@@ -22677,7 +23305,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #316",
@@ -22749,7 +23379,9 @@
         "max_value": "100",
         "value": "24"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #317",
@@ -22821,7 +23453,9 @@
         "max_value": "100",
         "value": "67"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #318",
@@ -22893,7 +23527,9 @@
         "max_value": "100",
         "value": "53"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #319",
@@ -22965,7 +23601,9 @@
         "max_value": "100",
         "value": "33"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #320",
@@ -23037,7 +23675,9 @@
         "max_value": "100",
         "value": "16"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #321",
@@ -23109,7 +23749,9 @@
         "max_value": "100",
         "value": "82"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #322",
@@ -23181,7 +23823,9 @@
         "max_value": "100",
         "value": "70"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #323",
@@ -23253,7 +23897,9 @@
         "max_value": "100",
         "value": "15"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #324",
@@ -23325,7 +23971,9 @@
         "max_value": "100",
         "value": "71"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #325",
@@ -23397,7 +24045,9 @@
         "max_value": "100",
         "value": "56"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #326",
@@ -23469,7 +24119,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #327",
@@ -23541,7 +24193,9 @@
         "max_value": "100",
         "value": "94"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #328",
@@ -23613,7 +24267,9 @@
         "max_value": "100",
         "value": "26"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #329",
@@ -23685,7 +24341,9 @@
         "max_value": "100",
         "value": "76"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #330",
@@ -23757,7 +24415,9 @@
         "max_value": "100",
         "value": "59"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #331",
@@ -23829,7 +24489,9 @@
         "max_value": "100",
         "value": "26"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #332",
@@ -23901,7 +24563,9 @@
         "max_value": "100",
         "value": "21"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #333",
@@ -23973,7 +24637,9 @@
         "max_value": "100",
         "value": "58"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #334",
@@ -24045,7 +24711,9 @@
         "max_value": "100",
         "value": "8"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #335",
@@ -24117,7 +24785,9 @@
         "max_value": "100",
         "value": "5"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #336",
@@ -24189,7 +24859,9 @@
         "max_value": "100",
         "value": "24"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #337",
@@ -24261,7 +24933,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #338",
@@ -24333,7 +25007,9 @@
         "max_value": "100",
         "value": "52"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #339",
@@ -24405,7 +25081,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #340",
@@ -24477,7 +25155,9 @@
         "max_value": "100",
         "value": "64"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #341",
@@ -24549,7 +25229,9 @@
         "max_value": "100",
         "value": "89"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #342",
@@ -24621,7 +25303,9 @@
         "max_value": "100",
         "value": "10"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #343",
@@ -24693,7 +25377,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #344",
@@ -24765,7 +25451,9 @@
         "max_value": "100",
         "value": "43"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #345",
@@ -24837,7 +25525,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #346",
@@ -24909,7 +25599,9 @@
         "max_value": "100",
         "value": "15"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #347",
@@ -24981,7 +25673,9 @@
         "max_value": "100",
         "value": "67"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #348",
@@ -25053,7 +25747,9 @@
         "max_value": "100",
         "value": "57"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #349",
@@ -25125,7 +25821,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #350",
@@ -25197,7 +25895,9 @@
         "max_value": "100",
         "value": "77"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #351",
@@ -25269,7 +25969,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #352",
@@ -25341,7 +26043,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #353",
@@ -25413,7 +26117,9 @@
         "max_value": "100",
         "value": "62"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #354",
@@ -25485,7 +26191,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #355",
@@ -25557,7 +26265,9 @@
         "max_value": "100",
         "value": "89"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #356",
@@ -25629,7 +26339,9 @@
         "max_value": "100",
         "value": "63"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #357",
@@ -25701,7 +26413,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #358",
@@ -25773,7 +26487,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #359",
@@ -25845,7 +26561,9 @@
         "max_value": "100",
         "value": "25"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #360",
@@ -25917,7 +26635,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #361",
@@ -25989,7 +26709,9 @@
         "max_value": "100",
         "value": "12"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #362",
@@ -26061,7 +26783,9 @@
         "max_value": "100",
         "value": "39"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #363",
@@ -26133,7 +26857,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #364",
@@ -26205,7 +26931,9 @@
         "max_value": "100",
         "value": "79"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #365",
@@ -26277,7 +27005,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #366",
@@ -26349,7 +27079,9 @@
         "max_value": "100",
         "value": "55"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #367",
@@ -26421,7 +27153,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #368",
@@ -26493,7 +27227,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #369",
@@ -26565,7 +27301,9 @@
         "max_value": "100",
         "value": "75"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #370",
@@ -26637,7 +27375,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #371",
@@ -26709,7 +27449,9 @@
         "max_value": "100",
         "value": "87"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #372",
@@ -26781,7 +27523,9 @@
         "max_value": "100",
         "value": "1"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #373",
@@ -26853,7 +27597,9 @@
         "max_value": "100",
         "value": "16"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #374",
@@ -26925,7 +27671,9 @@
         "max_value": "100",
         "value": "86"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #375",
@@ -26997,7 +27745,9 @@
         "max_value": "100",
         "value": "7"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #376",
@@ -27069,7 +27819,9 @@
         "max_value": "100",
         "value": "10"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #377",
@@ -27141,7 +27893,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #378",
@@ -27213,7 +27967,9 @@
         "max_value": "100",
         "value": "51"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #379",
@@ -27285,7 +28041,9 @@
         "max_value": "100",
         "value": "92"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #380",
@@ -27357,7 +28115,9 @@
         "max_value": "100",
         "value": "42"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #381",
@@ -27429,7 +28189,9 @@
         "max_value": "100",
         "value": "10"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #382",
@@ -27501,7 +28263,9 @@
         "max_value": "100",
         "value": "62"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #383",
@@ -27573,7 +28337,9 @@
         "max_value": "100",
         "value": "91"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #384",
@@ -27645,7 +28411,9 @@
         "max_value": "100",
         "value": "70"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #385",
@@ -27717,7 +28485,9 @@
         "max_value": "100",
         "value": "76"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #386",
@@ -27789,7 +28559,9 @@
         "max_value": "100",
         "value": "95"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #387",
@@ -27861,7 +28633,9 @@
         "max_value": "100",
         "value": "81"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #388",
@@ -27933,7 +28707,9 @@
         "max_value": "100",
         "value": "5"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #389",
@@ -28005,7 +28781,9 @@
         "max_value": "100",
         "value": "77"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #390",
@@ -28077,7 +28855,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #391",
@@ -28149,7 +28929,9 @@
         "max_value": "100",
         "value": "30"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #392",
@@ -28221,7 +29003,9 @@
         "max_value": "100",
         "value": "81"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #393",
@@ -28293,7 +29077,9 @@
         "max_value": "100",
         "value": "26"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #394",
@@ -28365,7 +29151,9 @@
         "max_value": "100",
         "value": "56"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #395",
@@ -28437,7 +29225,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #396",
@@ -28509,7 +29299,9 @@
         "max_value": "100",
         "value": "86"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #397",
@@ -28581,7 +29373,9 @@
         "max_value": "100",
         "value": "41"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #398",
@@ -28653,7 +29447,9 @@
         "max_value": "100",
         "value": "97"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #399",
@@ -28725,7 +29521,9 @@
         "max_value": "100",
         "value": "16"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #400",
@@ -28797,7 +29595,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #401",
@@ -28869,7 +29669,9 @@
         "max_value": "100",
         "value": "58"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #402",
@@ -28941,7 +29743,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #403",
@@ -29013,7 +29817,9 @@
         "max_value": "100",
         "value": "80"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #404",
@@ -29085,7 +29891,9 @@
         "max_value": "100",
         "value": "43"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #405",
@@ -29157,7 +29965,9 @@
         "max_value": "100",
         "value": "82"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #406",
@@ -29229,7 +30039,9 @@
         "max_value": "100",
         "value": "89"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #407",
@@ -29301,7 +30113,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #408",
@@ -29373,7 +30187,9 @@
         "max_value": "100",
         "value": "9"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #409",
@@ -29445,7 +30261,9 @@
         "max_value": "100",
         "value": "54"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #410",
@@ -29517,7 +30335,9 @@
         "max_value": "100",
         "value": "100"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #411",
@@ -29589,7 +30409,9 @@
         "max_value": "100",
         "value": "98"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #412",
@@ -29661,7 +30483,9 @@
         "max_value": "100",
         "value": "52"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #413",
@@ -29733,7 +30557,9 @@
         "max_value": "100",
         "value": "91"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #414",
@@ -29805,7 +30631,9 @@
         "max_value": "100",
         "value": "3"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #415",
@@ -29877,7 +30705,9 @@
         "max_value": "100",
         "value": "77"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #416",
@@ -29949,7 +30779,9 @@
         "max_value": "100",
         "value": "55"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #417",
@@ -30021,7 +30853,9 @@
         "max_value": "100",
         "value": "37"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #418",
@@ -30093,7 +30927,9 @@
         "max_value": "100",
         "value": "73"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #419",
@@ -30165,7 +31001,9 @@
         "max_value": "100",
         "value": "36"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #420",
@@ -30237,7 +31075,9 @@
         "max_value": "100",
         "value": "16"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #421",
@@ -30309,7 +31149,9 @@
         "max_value": "100",
         "value": "92"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #422",
@@ -30381,7 +31223,9 @@
         "max_value": "100",
         "value": "21"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #423",
@@ -30453,7 +31297,9 @@
         "max_value": "100",
         "value": "4"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #424",
@@ -30525,7 +31371,9 @@
         "max_value": "100",
         "value": "40"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #425",
@@ -30597,7 +31445,9 @@
         "max_value": "100",
         "value": "29"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #426",
@@ -30669,7 +31519,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #427",
@@ -30741,7 +31593,9 @@
         "max_value": "100",
         "value": "16"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #428",
@@ -30813,7 +31667,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #429",
@@ -30885,7 +31741,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #430",
@@ -30957,7 +31815,9 @@
         "max_value": "100",
         "value": "3"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #431",
@@ -31029,7 +31889,9 @@
         "max_value": "100",
         "value": "6"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #432",
@@ -31101,7 +31963,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #433",
@@ -31173,7 +32037,9 @@
         "max_value": "100",
         "value": "18"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #434",
@@ -31245,7 +32111,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #435",
@@ -31317,7 +32185,9 @@
         "max_value": "100",
         "value": "8"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #436",
@@ -31389,7 +32259,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #437",
@@ -31461,7 +32333,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #438",
@@ -31533,7 +32407,9 @@
         "max_value": "100",
         "value": "21"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #439",
@@ -31605,7 +32481,9 @@
         "max_value": "100",
         "value": "47"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #440",
@@ -31677,7 +32555,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #441",
@@ -31749,7 +32629,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #442",
@@ -31821,7 +32703,9 @@
         "max_value": "100",
         "value": "4"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #443",
@@ -31893,7 +32777,9 @@
         "max_value": "100",
         "value": "16"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #444",
@@ -31965,7 +32851,9 @@
         "max_value": "100",
         "value": "20"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #445",
@@ -32037,7 +32925,9 @@
         "max_value": "100",
         "value": "13"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #446",
@@ -32109,7 +32999,9 @@
         "max_value": "100",
         "value": "20"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #447",
@@ -32181,7 +33073,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #448",
@@ -32253,7 +33147,9 @@
         "max_value": "100",
         "value": "20"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #449",
@@ -32325,7 +33221,9 @@
         "max_value": "100",
         "value": "50"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #450",
@@ -32397,7 +33295,9 @@
         "max_value": "100",
         "value": "88"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #451",
@@ -32469,7 +33369,9 @@
         "max_value": "100",
         "value": "23"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #452",
@@ -32541,7 +33443,9 @@
         "max_value": "100",
         "value": "51"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #453",
@@ -32613,7 +33517,9 @@
         "max_value": "100",
         "value": "65"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #454",
@@ -32685,7 +33591,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #455",
@@ -32757,7 +33665,9 @@
         "max_value": "100",
         "value": "14"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #456",
@@ -32829,7 +33739,9 @@
         "max_value": "100",
         "value": "80"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #457",
@@ -32901,7 +33813,9 @@
         "max_value": "100",
         "value": "19"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #458",
@@ -32973,7 +33887,9 @@
         "max_value": "100",
         "value": "2"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #459",
@@ -33045,7 +33961,9 @@
         "max_value": "100",
         "value": "27"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #460",
@@ -33117,7 +34035,9 @@
         "max_value": "100",
         "value": "87"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #461",
@@ -33189,7 +34109,9 @@
         "max_value": "100",
         "value": "65"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #462",
@@ -33261,7 +34183,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #463",
@@ -33333,7 +34257,9 @@
         "max_value": "100",
         "value": "48"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #464",
@@ -33405,7 +34331,9 @@
         "max_value": "100",
         "value": "13"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #465",
@@ -33477,7 +34405,9 @@
         "max_value": "100",
         "value": "43"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #466",
@@ -33549,7 +34479,9 @@
         "max_value": "100",
         "value": "45"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #467",
@@ -33621,7 +34553,9 @@
         "max_value": "100",
         "value": "69"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #468",
@@ -33693,7 +34627,9 @@
         "max_value": "100",
         "value": "46"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #469",
@@ -33765,7 +34701,9 @@
         "max_value": "100",
         "value": "51"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #470",
@@ -33837,7 +34775,9 @@
         "max_value": "100",
         "value": "79"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #471",
@@ -33909,7 +34849,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #472",
@@ -33981,7 +34923,9 @@
         "max_value": "100",
         "value": "7"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #473",
@@ -34053,7 +34997,9 @@
         "max_value": "100",
         "value": "59"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #474",
@@ -34125,7 +35071,9 @@
         "max_value": "100",
         "value": "25"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #475",
@@ -34197,7 +35145,9 @@
         "max_value": "100",
         "value": "64"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #476",
@@ -34269,7 +35219,9 @@
         "max_value": "100",
         "value": "28"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #477",
@@ -34341,7 +35293,9 @@
         "max_value": "100",
         "value": "79"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #478",
@@ -34413,7 +35367,9 @@
         "max_value": "100",
         "value": "96"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #479",
@@ -34485,7 +35441,9 @@
         "max_value": "100",
         "value": "22"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #480",
@@ -34557,7 +35515,9 @@
         "max_value": "100",
         "value": "100"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #481",
@@ -34629,7 +35589,9 @@
         "max_value": "100",
         "value": "68"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #482",
@@ -34701,7 +35663,9 @@
         "max_value": "100",
         "value": "3"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #483",
@@ -34773,7 +35737,9 @@
         "max_value": "100",
         "value": "52"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #484",
@@ -34845,7 +35811,9 @@
         "max_value": "100",
         "value": "73"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #485",
@@ -34917,7 +35885,9 @@
         "max_value": "100",
         "value": "72"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #486",
@@ -34989,7 +35959,9 @@
         "max_value": "100",
         "value": "34"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #487",
@@ -35061,7 +36033,9 @@
         "max_value": "100",
         "value": "71"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #488",
@@ -35133,7 +36107,9 @@
         "max_value": "100",
         "value": "63"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #489",
@@ -35205,7 +36181,9 @@
         "max_value": "100",
         "value": "99"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #490",
@@ -35277,7 +36255,9 @@
         "max_value": "100",
         "value": "97"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #491",
@@ -35349,7 +36329,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #492",
@@ -35421,7 +36403,9 @@
         "max_value": "100",
         "value": "24"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #493",
@@ -35493,7 +36477,9 @@
         "max_value": "100",
         "value": "85"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #494",
@@ -35565,7 +36551,9 @@
         "max_value": "100",
         "value": "99"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #495",
@@ -35637,7 +36625,9 @@
         "max_value": "100",
         "value": "20"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #496",
@@ -35709,7 +36699,9 @@
         "max_value": "100",
         "value": "30"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #497",
@@ -35781,7 +36773,9 @@
         "max_value": "100",
         "value": "35"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #498",
@@ -35853,7 +36847,9 @@
         "max_value": "100",
         "value": "3"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #499",
@@ -35925,7 +36921,9 @@
         "max_value": "100",
         "value": "61"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   },
   {
     "name": "Ergo Eyeballs Complex 100 Test #500",
@@ -35997,6 +36995,8 @@
         "max_value": "100",
         "value": "18"
       }
-    ]
+    ],
+    "assetType": "picture",
+    "explicit": false
   }
 ]
